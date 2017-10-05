@@ -1,0 +1,28 @@
+[
+	{
+		"titre" : "La Petite Porte",
+		"premiere" : "http://image.noelshack.com/fichiers/2012/36/1346700525-gw100.jpg",
+		"quatrieme" : "http://www.brupixel.be/hauteresol/NEX7-Tam18200-35mmf8-DSC00051_Dxo.jpg",
+		"resume" : "Je m&rsquo;appelle Ma&euml;lys et&hellip; Je pense que vous ne me croiriez pas si je vous racontais ce que j&rsquo;ai v&eacute;cu ! &Eacute;tait-ce une bonne chose ? Je ne sais pas&hellip; Aurais-je d&ucirc; fermer les yeux ? Ne rien tenter ? Ou aller jusqu&rsquo;au bout ? Et pourtant&hellip; Comme moi, vous auriez tout fait, tout. Laissez-moi vous conter mon histoire. Vous &ecirc;tes pr&ecirc;t ?",
+		"papiers" : [
+			{"titre" : "Lulu", "link" : "http://www.lulu.com/shop/ae-ferrets/la-petite-porte/paperback/product-22651001.html"}
+		],
+		"ebooks" : [
+			{"titre" : "Kobo", "link" : "https://www.kobo.com/fr/fr/ebook/la-petite-porte"},
+			{"titre" : "Kindle", "link" : "https://www.amazon.fr/Petite-Porte-Ferrets-ebook/dp/B01C4G85C2"}
+		],
+		"price" : 7.80,
+		"poids" : 100
+	},{
+		"titre" : "Grenouillette et son violon",
+		"premiere" : "img/livres/Grenouillette FRONT.jpg",
+		"quatrieme" : "img/livres/Grenouillette BACK.jpg",
+		"resume" : "Grenouillette est une petite grenouille toute rondelette, qui vit dans un magnifique marais d&eacute;cor&eacute; de jolis n&eacute;nuphars color&eacute;s. Malheureusement, les autres grenouilles alentour ne cessent de se moquer d&rsquo;elle &agrave; cause de ses rondeurs. Pourtant, Grenouillette est une petite grenouille tr&egrave;s gentille et pleine de talent.<br />Saura-t-elle conqu&eacute;rir le c&oelig;ur des autres grenouilles ? ",
+		"papiers" : [
+			{"titre" : "Lulu", "link" : "http://www.lulu.com/shop/ae-ferrets/la-petite-porte/paperback/product-22651001.html"}
+		],
+		"ebooks" : [],
+		"price" : 14.80,
+		"poids" : 50
+	}
+]
