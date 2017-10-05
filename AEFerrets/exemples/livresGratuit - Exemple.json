@@ -1,0 +1,25 @@
+[
+    {
+        "titre": "Nom du livre gratuit",
+        "date": "Date de la publication",
+        "premiere": "Couverture",
+        "resume": "Resumé",
+        "texte": [
+            "Paragraphe1",
+            "Paragraphe2",
+            "Paragraphe3",
+            "Pour une grosse separation utiliser : <br/>",
+            "Paragraphe4"
+        ]
+    },
+    {
+		"titre": "Nom du livre gratuit 2",
+        "date": "Date de la publication",
+        "premiere": "Couverture",
+        "resume": "Resumé",
+        "texte": [
+            "Paragraphe1",
+            "Paragraphe2"
+        ]
+    }
+]

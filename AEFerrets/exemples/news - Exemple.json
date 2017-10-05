@@ -1,0 +1,31 @@
+
+{
+	"Date des news": [
+		{
+            "titre": "Titre de la news 1",
+            "image": ["Image1", "Image2"],
+			"video": ["Video1", "Video2"],
+            "texte": "Texte de la news1"
+        },
+		{
+            "titre": "Titre de la news 2",
+            "image": ["Image1", "Image2"],
+			"video": ["Video1", "Video2"],
+            "texte": "Texte de la news2"
+        }
+	],
+	"Date plus ancienne": [
+		{
+            "titre": "Titre de la news 1",
+            "image": ["Image1", "Image2"],
+			"video": ["Video1", "Video2"],
+            "texte": "Texte de la news1"
+        },
+		{
+            "titre": "Titre de la news 2",
+            "image": ["Image1", "Image2"],
+			"video": ["Video1", "Video2"],
+            "texte": "Texte de la news2"
+        }
+	]
+}

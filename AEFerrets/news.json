@@ -1,58 +1,984 @@
-{
-	"01/2017" : [
-		{
-			"titre" : "Test20173",
-			"image" : "",
-			"video" : ["https://www.youtube.com/watch?v=bSO4rSfk5QQ",
-			"https://www.facebook.com/100009872078887/videos/441101509562248/","https://www.youtube.com/watch?v=pjhusFX88ts&feature=youtu.be"],
-			"texte" : "Ceci est un test 2017 3MEUHMEUH"
-		},
-		{
-			"titre" : "Test20172",
-			"image" : ["https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17201395_679231475612686_877745641609428297_n.jpg?oh=e1ba80d114530d6d513ec7d94d1e9b48&oe=5963C45B",
-			"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17201395_679231475612686_877745641609428297_n.jpg?oh=e1ba80d114530d6d513ec7d94d1e9b48&oe=5963C45B",
-			"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17201395_679231475612686_877745641609428297_n.jpg?oh=e1ba80d114530d6d513ec7d94d1e9b48&oe=5963C45B"],
-			"texte" : "Ceci est un test 2017 2"
-		},
-		{
-			"titre" : "Test20171",
-			"image" : "",
-			"texte" : "Ceci est un test 2017 1"
-		}
-	],
-	"12/2016" : [
-		{
-			"titre" : "Test2016123",
-			"image" : "",
-			"texte" : "Ceci est un test 122016 3"
-		},
-		{
-			"titre" : "Test2016122",
-			"image" : "",
-			"texte" : "Ceci est un test 122016 2"
-		},
-		{
-			"titre" : "Test2016121",
-			"image" : "",
-			"texte" : "Ceci est un test 122016 1"
-		}
-	],
-	"11/2016" : [
-		{
-			"titre" : "Test2016113",
-			"image" : "",
-			"texte" : "Ceci est un test 112016 3"
-		},
-		{
-			"titre" : "Test2016112",
-			"image" : "",
-			"texte" : "Ceci est un test 112016 2"
-		},
-		{
-			"titre" : "Test2016111",
-			"image" : "",
-			"texte" : "Ceci est un test 112016 1"
-		}
-	]
 
+{
+"10/2017": [
+		{
+           "titre": "Retrouvez-moi dans Vosges Matin !",
+            "image": "https://media.joomeo.com/large/59d207fb97190.jpg",
+            "texte": "Hier, nous &eacute;tions dans Vosges Matin ! ^^&quot; Nous avons &eacute;t&eacute; pris en flagrant d&eacute;lit de discussions &agrave; notre insu avec Gab Stael, talentueuse auteure et voisine de table :p ^^&quot; C&#039;est pas s&eacute;rieux tout &ccedil;a, c&#039;est pas s&eacute;rieux ! XD <br /><a href='http://c.vosgesmatin.fr/edition-d-epinal/2017/10/01/saint-nicolas-ca-bouge-dans-la-galerie' target='_blank'>Voir l&#039;article de Vosges Matin</a><br/> Mais aussi dans &Eacute;pinal Infos ! Toujours en train de bavarder... :D &hearts;<br/><a href='http://epinalinfos.fr/2017/09/livres-jeux-galerie-saint-nicolas/' target='_blank'>Voir l&#039;article de &Eacute;pinal Infos</a>"
+       }
+	],
+"09/2017": [
+		{
+           "titre": "Souvenir du Salon de Xaronval !",
+            "image": "https://media.joomeo.com/large/59ccf760a40d4.jpg",
+            "texte": "D&eacute;couvrez d&egrave;s maintenant les photos souvenirs prises lors du Salon du Livre de Xaronval, Samedi 23 et Dimanche 24 septembre ! Cliquez vite sur la rubrique &laquo; Salons et D&eacute;dicaces &raquo; en haut du site, puis &laquo; Souvenirs &raquo; dans le menu de gauche &hearts;"
+       },
+		{
+           "titre": "&quot;La Petite Porte&quot; dys - Naissance et volont&eacute;.",
+            "image": "",
+            "texte": "<br />Pour ceux qui veulent en savoir plus...<br /><a href='https://www.patreon.com/posts/la-petite-porte-14574803' target='_blank'>&quot;La Petite Porte&quot; dys - Naissance et volont&eacute;.</a> "
+       },
+		{
+           "titre": "Retour de Xaronval",
+            "image": "",
+            "texte": "<br />Retour au travail sur mon prochain livre, apr&egrave;s un weekend pass&eacute; au <b>Salon du livre de Xaronval</b>. J&rsquo;y ai fait de merveilleuses rencontres &hearts; Merci &agrave; tous pour vos chaleureuses paroles &hearts; &hearts; Promis, je sortirai vite <b>&quot; Ana&euml;lle - Tome 1 : Le Royaume de l&rsquo;Arbre-Feuille&quot;</b> ! &hearts; &hearts; &hearts; :) et je continuerai &agrave; &eacute;crire <b>&ldquo;pour ceux qui n&rsquo;aiment pas internet&rdquo;</b> :p ;) &hearts; Je vous embrasse bien fort.<br />Photos souvenirs &agrave; venir&hellip;"
+       },
+		{
+           "titre": "&quot;La Petite Porte&quot; dys",
+            "image": [
+			"https://media.joomeo.com/large/59c1342da7e57.jpg",
+			"https://media.joomeo.com/large/59c134618205a.jpg",
+			],
+            "texte": "Tr&egrave;s chers habitants du royaume de Faerwynn &hearts;<br />Comme vous le savez, il me tient fort &agrave; c&oelig;ur de publier une version adapt&eacute;e de mon livre <b>&quot;La Petite Porte&quot;</b> pour mes lecteurs Dys.<br />Voici donc la quatri&egrave;me de couverture de <b>&quot;La Petite Porte&quot;, collection Dys/10</b> ! Ainsi qu&#039;une petite vue de l&#039;int&eacute;rieur du livre. :) J&#039;aimerais sortir cette &eacute;dition le <b>10 octobre 2017</b> (soit, le 10/10/2017 ;) &hearts; )<br />*Pour rappel, si vous le souhaitez, vous pouvez soutenir ce projet sur <a href='https://www.patreon.com/aeferrets' target='_blank'>ma page Patreon</a>"
+       },
+		{
+           "titre": "La Plume",
+            "image": "https://media.joomeo.com/large/59bf8cae0922e.jpg",
+            "texte": "Il y a 6 ans, je me lan&ccedil;ais dans la publication ma toute premi&egrave;re nouvelle sur internet. 6 ans, d&eacute;j&agrave; &hearts; Aujourd&#039;hui, j&#039;avais envie de partager ce petit texte avec vous. Mais, attention, il est loin d&#039;&ecirc;tre parfait &hearts;<br /><a href='http://www.inlibroveritas.net/oeuvres/22903/la-plume' target='_blank'>La Plume</a>"
+       },
+		{
+           "titre": "Travail en cours !",
+            "image": "",
+			"video": "https://www.youtube.com/watch?v=AiIjC1yO8rk",
+            "texte": "Voici un petit extrait de mon travail en cours sur une illustration qui figurera &agrave; l&#039;int&eacute;rieur de mon prochain livre :) &hearts;"
+       },
+		{
+           "titre": "Encouragez-moi sur Patreon !",
+            "image": "https://media.joomeo.com/large/59b7e82b4b252.jpg",
+            "texte": "Chers habitants du royaume de Faerwynn et d&rsquo;ailleurs !<br /><br />Aujourd&rsquo;hui, je voudrais vous pr&eacute;senter quelque chose d&rsquo;un peu sp&eacute;cial :) En effet, je me suis d&eacute;cid&eacute;e &agrave; cr&eacute;er une page sur <a href='https://www.patreon.com/aeferrets' target='_blank'>Patreon</a> !:) Vous pouvez d&eacute;sormais m&rsquo;encourager comme bon vous semble &hearts;<br /><br /><b>Mais alors, qu&rsquo;est-ce que Patreon ?</b> C&rsquo;est tr&egrave;s simple. Il s&rsquo;agit d&rsquo;une cagnotte destin&eacute;e aux artistes et cr&eacute;ateurs. C&#039;est une cagnotte comme Leetchi ou Ulule, sauf qu&rsquo;elle est permanente et que je la mettrai &agrave; jour r&eacute;guli&egrave;rement, selon mes buts &agrave; atteindre. :) La petite particularit&eacute; r&eacute;side dans le fait que les dons seront d&eacute;bit&eacute;s &agrave; chacune de mes cr&eacute;ations ou plut&ocirc;t, chaque fois qu&rsquo;un but sera atteint. :)<br /><br /><b>Concr&egrave;tement ?</b> Vous pouvez choisir entre un don &agrave; partir de 1 &euro; (qui vous sera donc retir&eacute; &agrave; chaque but atteint) ou un don d&eacute;fini pour recevoir un petit cadeau :) Comme sur Ulule. ^^<br /><br />Bien s&ucirc;r, cela reste sans obligation et vous pouvez vous d&eacute;sinscrire &agrave; tout moment ! :)<br /><br />Si vous avez des questions, n&rsquo;h&eacute;sitez pas ! Je rajouterai des petits cadeaux et des buts au fur et &agrave; mesure de mes avanc&eacute;es &hearts;<br /><br />Merci infiniment pour votre soutien. Le parcours me semble encore plus beau &agrave; vos c&ocirc;t&eacute;s et j&rsquo;ai grande h&acirc;te de sortir d&rsquo;autres beaux livres pour vous faire r&ecirc;ver &hearts;<br /><br />Bien f&eacute;eriquement v&ocirc;tre,<br /><b>A.E Ferrets</b><br/><br />PS: Et si vous souhaitez vous inscrire, voici mon <a href='https://patreon.com/invite/bqonpb' target='_blank'>lien de parrainage</a<br /><br /><a href='https://www.patreon.com/aeferrets' target='_blank'>Ma page Patreon</a>"
+       },
+		{
+           "titre": "Richard Bohringer à Thaon-les-vosges",
+            "image": [
+			"https://media.joomeo.com/large/59b2723b64800.jpg",
+			"https://media.joomeo.com/large/59b2727197c77.jpg",
+			"https://media.joomeo.com/large/59b27262a6945.jpg",
+			"https://media.joomeo.com/large/59b272813dd79.jpg",
+			"https://media.joomeo.com/large/59b2729480de9.jpg",
+			],
+            "texte": "<b>Richard Bohringer</b> sera &eacute;galement pr&eacute;sent au Salon du livre <b>&ldquo;Le Grenier des mots&rdquo;</b>, qui aura lieu le <b>7 et 8 octobre &agrave; Thaon-les-Vosges </b> :) Ce sera l&rsquo;occasion de le rencontrer en allant faire d&eacute;dicacer votre exemplaire de <b>&ldquo;La Petite Porte&rdquo;</b> ou de <b>&ldquo;Grenouillette et son violon&rdquo;</b> ! ;)</br></br> Je cite, <b>Le Grenier des mots</b> : &quot;Un invit&eacute; de marque au Grenier des mots, qu&rsquo;il est inutile de vous pr&eacute;senter&hellip; Acteur, r&eacute;alisateur, chanteur, &eacute;crivain&hellip; Il sera pr&eacute;sent &agrave; Thaon le samedi 7 et le dimanche 8 octobre. Pour rencontrer ses lecteurs, pour d&eacute;dicacer ses livres et en particulier &ldquo;Quinze rounds&rdquo;, le dernier paru&hellip; Et pour donner son spectacle seul en sc&egrave;ne : &ldquo;Tra&icirc;ne pas trop sous la pluie&rdquo; le samedi soir au th&eacute;&acirc;tre de la Rotonde&hellip; Vous l&rsquo;avez reconnu, bien s&ucirc;r&hellip; &quot;"
+       },
+		{
+           "titre": "Souvenir du Salon de Piennes !",
+            "image": "https://media.joomeo.com/large/59affb5b55947.jpg",
+            "texte": "D&eacute;couvrez d&egrave;s maintenant les photos souvenirs prises lors du Salon du Livre et de la BD de Piennes, dimanche 03 septembre ! Cliquez vite sur la rubrique &laquo; Salons et D&eacute;dicaces &raquo; en haut du site, puis &laquo; Souvenirs &raquo; dans le menu de gauche &hearts;"
+       },
+		{
+            "titre": "Je suis dans votre journal !",
+            "image": [
+					"https://media.joomeo.com/large/59ad638ac46c9.jpg",
+					"https://media.joomeo.com/large/59ad6515c1758.jpg",
+					"https://media.joomeo.com/large/59ad6475e5afa.jpg",
+					],
+			"video": "",
+            "texte": "Aujourd&#039;hui, vous pouvez me retrouver dans votre &eacute;dition quotidienne du journal &quot;Le R&eacute;publicain Lorrain&quot;  (&eacute;dition Briey), &agrave; l&#039;occasion du tr&egrave;s beau Salon du Livre et de la BD de Piennes qui a eu lieu ce dimanche 3 setptembre &hearts;<br />Mais aussi sur leur site internet, en cliquant <a href='http://www.republicain-lorrain.fr/edition-de-briey/2017/09/03/photos-des-livres-et-leurs-auteurs-a-piennes' target='_blank'>ici</a>. L&#039;article est &eacute;galement disponible pour le inscrits <a href='http://www.republicain-lorrain.fr/edition-de-briey/2017/09/04/plaisir-partage-au-fil-des-pages' target='_blank'>ici</a>. "
+		}
+	],
+	"08/2017": [
+		{
+            "titre": "D&eacute;dicace &agrave; Piennes !",
+            "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/18557078_717389028463597_1716453425836960326_n.jpg?oh=1ec271254ad9d1f4d740b5b4fb366ef8&oe=59BEBCAB",
+			"video": "",
+            "texte": "N&#039;oubliez pas ! Je serai pr&eacute;sente en d&eacute;dicace au Salon du Livre et de la BD de Piennes, ce Dimanche 3 Septembre, de 10h &agrave; 19h ! &hearts;"
+    },{
+            "titre": "Petit extrait !",
+            "image": "https://media.joomeo.com/large/59a135b885de4.jpg",
+			"video": "",
+            "texte": "Actuellement, je travaille sur l&#039;illustration et la mise en page de mon prochain livre :) En voici un petit extrait, rien que pour vous &hearts;"
+    },{
+            "titre": "Souvenir du Festival Domrantastique !",
+            "image": "https://media.joomeo.com/large/5996d4a5db1e9/MUY5NjQxOTJflC_Q1WC8SlxTV4Rh2ZE2.jpg",
+			"video": "",
+            "texte": "D&eacute;couvrez d&egrave;s maintenant toutes les photos souvenirs prises lors du magnifique Festival Dormantastique, qui a eu lieu au somptueux ch&acirc;teau de Dormans, samedi 22 et dimanche 23 juillet ! Cliquez vite sur la rubrique &laquo; Salons et D&eacute;dicaces &raquo; en haut du site, puis &laquo; Souvenirs &raquo; dans le menu de gauche &hearts;"
+        }
+	],
+	"07/2017": [
+	{
+            "titre": "Dormantastique partie 4",
+            "image": "",
+			"video": "https://www.youtube.com/watch?v=3-J41PCm52Y",
+            "texte": "Et voila ! La toute derni&egrave;re partie de ma petite visite guid&eacute;e du Dormantastique ^^ &hearts;"
+        },
+	{
+            "titre": "Dormantastique partie 3",
+            "image": "",
+			"video": "https://www.youtube.com/watch?v=s8AuHCx3Gwc",
+            "texte": "Comme promis, voici la 3&egrave;me partie (l&#039;avant derni&egrave;re) de ma petite visite guid&eacute;e du Le Dormantastique, avec un peu de retard ^^&quot; &hearts;"
+        },
+	{
+            "titre": "Dormantastique partie 2",
+            "image": "",
+			"video": "https://www.youtube.com/watch?v=AD-yaxpVHPk",
+            "texte": "Comme promis, la suite de la visite du Dormantastique !! Une partie 3 arrive bient&ocirc;t ;) &lt;3 "
+        },
+	{
+            "titre": "Dormantastique partie 1",
+            "image": "",
+			"video": "https://www.youtube.com/watch?v=q8GpFpE3MDc",
+            "texte": "Et voil&agrave; ! Le Dormantastique, c&rsquo;est d&eacute;j&agrave; fini :&#039;( Mais, voici un petit souvenir de ce magnifique festival, en attendant les photos ! Ce n&rsquo;est qu&rsquo;une premi&egrave;re partie, il y en aura d&rsquo;autres ;) Restez &agrave; l&rsquo;&eacute;coute ^^"
+        },
+	{
+            "titre": "Demandez le programme !",
+            "image": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/19642234_746882542180912_4260833306070366832_n.jpg?oh=ba7180105678edab3773c7a564073884&oe=5A037885",
+            "texte": "Bien le bonjour chers habitant du royaume de Faerwynn !<br />Le Dormantastique, c&rsquo;est ce weekend !!! En attendant, voici le programme ! :)<br/><a href='http://fr.calameo.com/read/0052463634fa88fbcd9b6' target='_blank'>cliquez ici !</a>"
+        },
+	{
+            "titre": "Dormantastique, c&#039;est bient&ocirc;t !",
+            "image": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/19642234_746882542180912_4260833306070366832_n.jpg?oh=ba7180105678edab3773c7a564073884&oe=5A037885",
+            "texte": "&Ccedil;a y est !!!! Le Festival Dormantastique approche &agrave; grand pas ! Il aura lieu : ce weekend !!! Tout est presque pr&ecirc;t dans ma petite bulle, pour vous accueillir sur mon stand, dans le magnifique parc du ch&acirc;teau de Dormans ! Je suis impatiente de vous retrouver &hearts;"
+        },
+	{
+            "titre": "Pr&eacute;sentation de Songes et Sortil&egrave;ges !",
+            "image": "",
+			"video": "https://www.youtube.com/watch?v=7I6hAsli4GY",
+            "texte": "La 3&egrave;me &eacute;dition du Salon Songes et Sortil&egrave;ges arrive bient&ocirc;t !!! J&#039;ai h&acirc;te de vous y retrouver !! En attendant, voici une petite vid&eacute;o de pr&eacute;sentation pour patienter ;) &Ccedil;a donne envie !!"
+        },
+		{
+            "titre": "Songes et Sortil&egrave;ges !",
+            "image": "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/18813273_1455361797892027_3201905690257958151_n.jpg?oh=b6bba424d83ba975138a21a1bd2c1d0f&oe=59C34EBA",
+            "texte": "La Petite Porte reviendra dans le Nord cette ann&eacute;e !! Et elle sera accompagn&eacute;e de Grenouillette et son violon !! ^^ Notez bien cette date dans vos agendas car je serai pr&eacute;sente pour d&eacute;dicacer vos exemplaires &agrave; l&#039;occasion du magnifique salon Songes et Sortil&egrave;ges, le 5 novembre 2017 !!! J&#039;ai h&acirc;te !! &hearts;&hearts;&hearts;"
+        }
+	],
+	"06/2017": [
+		{
+            "titre": "Souvenir du salon de Jeuxey !",
+            "image": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19030492_727982850737548_8627075335161666484_n.jpg?oh=c21d2a97970c90513b59d05da60c8e84&oe=59E84406",
+            "texte": "D&eacute;couvrez d&egrave;s maintenant toutes les photos souvenirs prises lors du 5&egrave;me Salon de l&#039;auto-&eacute;dition et de la petite &eacute;dition de Jeuxey, dimanche 11 juin ! Cliquez vite sur la rubrique &laquo; Salons et D&eacute;dicaces &raquo; en haut du site, puis &laquo; Souvenirs &raquo; dans le menu de gauche &hearts;"
+        },
+		{
+            "titre": "Reportage Vosges T&eacute;l&eacute;vision !",
+            "image": "http://www.lumieremonde.org/wp-content/uploads/2013/10/logo-vosges_television_BLEU.jpg",
+            "texte": "Bien le bonjour habitants du royaume de Faerwynn et d&rsquo;ailleurs !<br />Une petite f&eacute;e aux griffes de chats m&rsquo;a annonc&eacute; ce matin qu&rsquo;il semblerait que vous pourriez m&rsquo;apercevoir dans un reportage de Vosges T&eacute;l&eacute;vision ce soir &agrave; 18h. Moi, je n&rsquo;ai pas cette petite bo&icirc;te &agrave; couleurs. Alors, ouvrez l&rsquo;&oelig;il ! ;) &hearts;&hearts;"
+        },
+			{
+            "titre": "Pr&eacute;parations Dormantastique !",
+            "image": [
+                "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19224816_727837757418724_4641737540482506996_n.jpg?oh=eb7ddad92b1ca8a1b68bdded83a3d8c6&oe=59DF4102",
+                "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19030226_727837747418725_3479672777788263368_n.jpg?oh=0c30c80dc0f545ab73a86a60adabf287&oe=59D2E050",
+				"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19030358_727837644085402_3353714698620261678_n.jpg?oh=20a2260c97d1a7408928f1c02df145f1&oe=59DA83DC",
+				"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19113691_727838104085356_2238088119626787026_n.jpg?oh=3c2e2caba77455fe5e6e10b3bdd56034&oe=59D80FC0",
+				"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19030593_727838130752020_8968745791933710881_n.jpg?oh=b4f9a42ef11bcb0f9370de437747afc7&oe=59D87F67",
+				"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19149297_727838174085349_1915333399518888279_n.jpg?oh=cfdf7a2c49532d33bc0dd82689437304&oe=59D786D4",
+				"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19059452_727838330752000_4609712538738012143_n.jpg?oh=99585e9f577ec67f0759cd2a4315b48f&oe=599E4342",
+				"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19113852_727838397418660_6306886252367351122_n.jpg?oh=2a74ab0b89c1888196aee52134c31587&oe=59DD043E",
+				"https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/19030244_727838427418657_4184217103802834261_n.jpg?oh=66dcb210f9e528f61b04791a5f5fac42&oe=59E8FCB7",
+				],
+            "texte": "Mon &quot;petit&quot; projet pour le Festival le Dormantastique avance &agrave; petits pas :) Et, il y en a un qui se sent tr&egrave;s concern&eacute; ! XD &hearts;&hearts;&hearts;"
+        },
+		{
+            "titre": "Marque-page Grenouillette !",
+            "image": [
+                "https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/18813384_724383997764100_9044783328235743915_n.jpg?oh=b326f809ffb8449171949e48a9083655&oe=59A219C7",
+                "https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/18893248_724383994430767_60533517887065840_n.jpg?oh=8bd9a2ba923e2d801f6f5532662cdd31&oe=59DA29FC",
+				"https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/18952581_724383961097437_929574076748275427_n.jpg?oh=4780b1418cc901c5def7309d37545173&oe=59AC7EF5"
+				],
+            "texte": "Voici le tout premier marque-page de &laquo; Grenouillette et son violon &raquo; ! R&eacute;alis&eacute; par mes soins avec mes petits crayons aquarelles :) Je viens tout juste de le terminer et il n&rsquo;est pas encore plastifi&eacute; mais, comme j&rsquo;en &eacute;tais tr&egrave;s contente, je voulais le partager avec vous &hearts; Il sera disponible au Salon du livre de Jeuxey, ce week-end. ;)"
+        }
+	],
+	"05/2017": [
+		{
+            "titre": "Souvenir du Salon de Laveline du Houx !",
+            "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/18839272_720992508103249_168928190049655243_n.jpg?oh=4119489c6a772b9f634ac0312900368e&oe=59AE3CBD",
+            "texte": "D&eacute;couvrez d&egrave;s maintenant toutes les photos souvenirs prises lors du 1er Salon du Livre et du Jeu de Laveline du Houx dimanche 28 mai ! Cliquez vite sur la rubrique &laquo; Salons et D&eacute;dicaces &raquo; en haut du site, puis &laquo; Souvenirs &raquo; dans le menu de gauche &hearts;"
+        },
+		{
+            "titre": "D&eacute;dicace &agrave; Laveline du Houx !",
+            "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/16427743_660620927473741_5991047752455518502_n.png?oh=8986ea90122948b006fc2bd373576dd9&oe=59755703",
+            "texte": "Pr&eacute;parez une petite place dans votre week-end pour venir me voir, ce Dimanche 28 mai, en d&eacute;dicace au 1er salon du livre et du jeu artisanal de Laveline du Houx !! Pour la toute premi&egrave;re fois, vous pourrez acheter mon tout nouveau livre pour enfant : &laquo; Grenouillette et son violon &raquo; !! Et, si vous &ecirc;tes une maman, profitez de cette f&ecirc;te des M&egrave;res pour vous faire un petit plaisir en vous offrant &laquo; La Petite Porte &raquo; ou un beau marque-page illustr&eacute; &agrave; la main !! &hearts;<br />Un beau week-end s&rsquo;annonce&hearts; J&rsquo;ai h&acirc;te de vous retrouver !"
+        },
+		{
+            "titre": "Sortie de &laquo; Grenouillette et son violon &raquo; !",
+            "image": "",
+			"video": "https://www.youtube.com/watch?v=pjhusFX88ts",
+            "texte": "Chers habitants du royaume de Faerwynn et d&#039;ailleurs !!<br />J&#039;ai une grande nouvelle &agrave; vous annoncer ! Il y a quelques jours &agrave; peine, j&#039;ai re&ccedil;u la visite d&#039;une gentille petite grenouillette toute verte, portant un tr&egrave;s joli ruban violet. Elle m&#039;a donn&eacute; une petite bo&icirc;te en carton, dans laquelle se trouvait : l&#039;histoire de &quot;Grenouillette et son violon&quot;, imprim&eacute; dans un magnifique livre de 32 pages ! Tout en rougissant, elle m&#039;a salu&eacute; et a subitement disparu en un bond fabuleux !<br />Je n&#039;ai pu m&#039;emp&ecirc;cher de vous faire une petite vid&eacute;o de son pr&eacute;sent. J&#039;esp&egrave;re que vous l&#039;aimerez autant que moi &hearts;<br/>* &laquo; Grenouillette et son violon &raquo; est un livre adapt&eacute; aux petites grenouilles dyslexiques. <br />** Commandez &quot;Grenouillette et son violon&quot; par A.E Ferrets, sur lulu.com :<br /><a href='http://www.lulu.com/shop/ae-ferrets/grenouillette-et-son-violon/paperback/product-23154806.html' target='_blank'>Grenouillette et son violon</a>"
+        }
+	],
+	"04/2017": [
+		{
+            "titre": "La Petite Porte f&ecirc;te ses 1 an !!",
+            "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/13043768_265812710424463_6763763990728731160_n.jpg?oh=c41f904abb0947b213cb2de9278ff305&oe=5986DA0A",
+            "texte": "C&rsquo;est le grand jour ! &Agrave; l&rsquo;occasion des 1 an de la sortie de mon tout premier livre intitul&eacute; &laquo; La Petite Porte &raquo;, profitez d&egrave;s aujourd&rsquo;hui d&rsquo;une remise de 10% !! &hearts;<br />Joyeux anniversaire &laquo; La Petite Porte &raquo; !! &hearts;&hearts;&hearts; <br/><a href='http://www.lulu.com/shop/ae-ferrets/la-petite-porte/paperback/product-22651001.html' target='_blank'>J&#039;en profite en cliquant ici !</a>"
+        },
+		{
+            "titre": "Grande nouvelle !",
+            "image": "",
+            "texte": "</br> En voil&agrave; un bien grand moment ! La toute premi&egrave;re &eacute;preuve de mon premier livre pour enfant &laquo; Grenouillette et son violon &raquo; est en route vers ma bulle pour v&eacute;rification avant sa sortie !! J&rsquo;ai h&acirc;te de l&rsquo;avoir en main ! &hearts;"
+        },
+		{
+            "titre": "Direct Facebook : Grenouillette et son violon",
+            "image": "",
+			"video": "https://www.facebook.com/100009872078887/videos/441101509562248/",
+            "texte": "Un premier direct facebook... Qui ne fonctionne pas tr&egrave;s bien ^^&quot; Dommage ! Je n&#039;ai pas une bonne connexion. :( Mais, au moins, vous aurez pu d&eacute;couvrir le titre qui sera pr&eacute;sent sur la couverture de &quot;Grenouillette et son violon&quot; ! &hearts;"
+        },
+			{
+            "titre": "Suite : Grenouillette et son violon",
+            "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-0/s552x414/17883523_696079417261225_5735796141217826860_n.jpg?oh=fccaccff4231d9bd755db7b055a5d041&oe=595839FF",
+            "texte": "Une autre page se tourne pour &laquo; Grenouillette et son violon &raquo; ! Apr&egrave;s avoir pos&eacute; ma casquette d&rsquo;&eacute;crivaine pour celle d&rsquo;illustratrice, j&rsquo;enfile d&eacute;sormais celle de l&rsquo;&eacute;ditrice ! En route pour la mise en page finale ! &hearts;"
+        },
+		{
+			"titre": "Des nouvelles de Grenouillette et son violon !",
+            "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-0/s480x480/17760072_693054257563741_8652811243970616655_n.png?oh=c74bb6012840833ef6a4dc279e374a47&oe=59969655",
+            "texte": "Bien le bonjour, chers habitants du royaume de Faerwynn et d&rsquo;ailleurs !<br/>Je pointe le bout de mon petit nez pour vous donner quelques nouvelles de &laquo; Grenouillette et son violon &raquo; ! Les illustrations sont presque toutes termin&eacute;es ! ^^ J&rsquo;attaque la derni&egrave;re aujourd&rsquo;hui &hearts; Ensuite, viendra le moment de la mise en page pour le livre final ! J&rsquo;ai h&acirc;te de vous montrer tout &ccedil;a &hearts; Encore un peu de patience, c&rsquo;est pour tr&egrave;s bient&ocirc;t !!!!"
+		}
+	],
+	"03/2017": [
+		{
+            "titre": "Grenouillette et son violon",
+            "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17352221_682757905260043_3842225971318979294_n.png?oh=d06727bfc9d7e6f8ba664e3ec25d896a&oe=59616851",
+            "texte": "&laquo; Grenouillette et son violon &raquo; sera adapt&eacute;e aux enfants dyslexiques :) Des petits r&eacute;glages sont encore &agrave; effectuer pour que tout soit parfait :) ^^"
+        },
+		{
+            "titre": "Souvenir du Salon de Ser&eacute;mange-Erzange !",
+            "image": [
+                "https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17201395_679231475612686_877745641609428297_n.jpg?oh=e1ba80d114530d6d513ec7d94d1e9b48&oe=5963C45B",
+                "https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17021598_679232768945890_9016160754851261512_n.jpg?oh=f1c67809e4d02be5c2e85cdab61ebf88&oe=5966ABDE",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17200920_679232748945892_7037168532257606631_n.jpg?oh=82c494feb0f94ae19cdd3d8e29343373&oe=59670610",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17190739_679232938945873_7474596977319270055_n.jpg?oh=be996eee5b9b6f27cf33161765c5ed7a&oe=59271D12",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17156140_679233005612533_390795367907407961_n.jpg?oh=b9fa6ee5e869f8741bf3afcccadaeb06&oe=596D4B2E",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17201363_679233028945864_7582488142692735860_n.jpg?oh=37269baacd1fc22864da3df3fa292fa2&oe=59693F40",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17155968_679233788945788_791232450009090595_n.jpg?oh=a43e64cdb300785a13364291cb9c4ec9&oe=5960FE94",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17190937_679233808945786_5941513002576198477_n.jpg?oh=991398b0be7f535f53fef617ab3efc24&oe=59320C8D",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17156125_679233842279116_886557105870120273_n.jpg?oh=9c66085985e44473b519a0bdc55b7ace&oe=595B8CB2",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17156277_679234488945718_3035901789910607734_n.jpg?oh=cb61955b98dfa9bd03acd206c5a3c648&oe=5969FEE2",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17098151_679234525612381_6465574667174261359_n.jpg?oh=42eb1da7e7c7fff33c2869b5b7b8a5b1&oe=59337E08",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17190360_679234542279046_4848399466398301017_n.jpg?oh=36ea11e076d8ab85d9acf70ac74562d8&oe=596EA539",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17203209_679235115612322_2625596188229936787_n.jpg?oh=2cbf2f5bd546ecc3448532d59a894319&oe=5968802E",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17190875_679235152278985_7470373949949268525_n.jpg?oh=b17093390b0ee027c4873b9a9d13f965&oe=596FCFCE",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17190587_679235198945647_134429817425088574_n.jpg?oh=db1acd45d26577f02e55a059114f1586&oe=596AF2A2",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17190869_679235432278957_2561341482301868076_n.jpg?oh=c68289c25ef4d64f42d50c07ca905e9b&oe=596CE28A",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17201442_679235485612285_4597673993314523634_n.jpg?oh=0d93d72352342d267224296a9266dd6e&oe=59307778",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17200877_679235535612280_4038375982284595262_n.jpg?oh=330b583b78d3ddc17b9308e378cb2950&oe=592BC1C2",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17190601_679235628945604_952062674622204142_n.jpg?oh=faacc74b0d49c531a3df88301d10cea2&oe=596F87BB",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17202802_679235698945597_4258099497715414999_n.jpg?oh=1df876e40690907b566ff06328cb635c&oe=59678C4D",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17202925_679235848945582_1736293316870461735_n.jpg?oh=48219f8a5395361139b67c7c3b417bdc&oe=592EF5D1",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17098439_679236085612225_1670964774175943031_n.jpg?oh=c5acad9519d41f342e6fcaf3751a2bd1&oe=59601CF5",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17201332_679236088945558_6982907544064311386_n.jpg?oh=c70685b920fdc41882c55ad94093d409&oe=596EDB9B",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17201179_679236025612231_4185901933571379995_n.jpg?oh=3d012ec7c67404efeda6954e921f7c8f&oe=593032B3",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17190440_679237238945443_1226687217926177073_n.jpg?oh=9e5843e7b9a739315b7b5828ad8f7dfb&oe=5962A39F",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17191368_679237252278775_8441632242142971818_n.jpg?oh=f696f73007f8bdd4dc28388c1ec24d9d&oe=596D4CF3",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17191033_679237312278769_4661535918191606611_n.jpg?oh=0f770244c579215990c2084e28286156&oe=5967F5CB",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17103571_679238478945319_7090425437284028955_n.jpg?oh=c5b2bcf8ac0594c00cf50020ce770146&oe=59318B94",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17191320_679238455611988_39989134544594985_n.jpg?oh=478bfec7b18518118707ced33c0dbecd&oe=596C4A06",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17098636_679238498945317_5776791667855850253_n.jpg?oh=b69aca865eeefee4f5a9062a88acaafa&oe=5929EFBB",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17191347_679239452278555_5436927154218809537_n.jpg?oh=30a8320d15701f4684ea7d430fd8e6f3&oe=596FB20D",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17201203_679239448945222_1085519065124789329_n.jpg?oh=137dbb642b408fa0f71ad59a0299e74d&oe=59619DA1",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17202735_679239445611889_3655200985184424501_n.jpg?oh=546cdff26fa90e30919df05f4335712d&oe=592687AE",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17191267_679240732278427_3111073242735296636_n.jpg?oh=fadefb1065bf82060bd7ceacd05902b3&oe=596D785E",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17191374_679240942278406_3889100472898442405_n.jpg?oh=c8e09985be6d265c4c22b10223ce1c24&oe=595FEF21",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17190905_679241248945042_351464112708797229_n.jpg?oh=5fd54a90279ee08fc8e2204e60f47a34&oe=592582A0",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17191360_679241215611712_2489692373400731856_n.jpg?oh=52e7809310f454e89b21a0dad1f0d1bd&oe=59663DB2",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17191179_679241245611709_3788737556431688372_n.jpg?oh=2f9d1b2195f6bec04b136b8de321e59c&oe=596215F7",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17202748_679241345611699_7041969911747281752_n.jpg?oh=e3b536b23c60854550e200218d7ab420&oe=59311057",
+				"https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17200961_679241318945035_8732318602812116879_n.jpg?oh=6a3d08a5ed04ee2e734109ab492be50d&oe=5971F706"
+			 ],
+            "texte": "Petit retour photo sur les d&eacute;dicaces au Salon du Livre et de la BD de Ser&eacute;mange-Erzange, le Dimanche 5 F&eacute;vrier 2017 :)<br/>De merveilleux moments pass&eacute;s en votre compagnie, de magnifiques rencontres, des artistes pleins de talents, une ambiance fantastique... Le salon est un univers &agrave; lui tout seul ! &hearts; J&rsquo;en garde un tr&egrave;s beau souvenir et j&rsquo;ai vraiment h&acirc;te d&rsquo;y retourner de nouveau ! &hearts;<br/>Merci &agrave; tous pour cette belle journ&eacute;e pleine de merveilles &hearts;"
+        },
+		{
+            "titre": "D&eacute;dicaces &agrave; Lemainville !",
+            "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/17103693_677802382422262_7224954037845240132_n.jpg?oh=98712d331ef5c77aa9c9b18b0cea7d3d&oe=5971D92E",
+            "texte": "Je serai pr&eacute;sente en d&eacute;dicace au 9&egrave;me Salon du Livre Lorrain de Lemainville, Dimanche 12 Mars de 9h &agrave; 18h ! :) &hearts; <br/>(Avec de nouveaux marque-pages ! ;))"
+        }
+	],
+	"02/2017": [
+		{
+			"titre": "Nouveaux marque-pages",
+            "image": "",
+            "texte": "<br/>Les nouveaux marque-pages sont bient&ocirc;t termin&eacute;s ! :) Ils seront disponibles au prochain Salon du livre qui devrait se d&eacute;rouler le 12 Mars &agrave; Lemainville (&agrave; confirmer). ^^"
+		},
+		{
+			"titre": "&quot;Grenouillette et son violon&quot;",
+            "image": "https://scontent-fra3-1.xx.fbcdn.net/v/t1.0-9/16729310_668084143394086_4217446250126475365_n.png?oh=5e199685adc94a385fc2e55c54c6bb0f&oe=5926464B",
+            "texte": "Work in progress ^^"
+		},
+		{
+            "titre": "Des nouvelles de &quot;Grenouillette et son violon&quot;",
+            "image": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-0/p280x280/16640920_666093466926487_3286635984764952275_n.jpg?oh=80b65c59984775c48d4e913fb394594e&oe=59488CC2",
+            "texte": "2 pages de plus pour &quot;Grenouillette et son violon&quot; ! :) &Ccedil;a avance bien ! J&#039;attaque les pages 13 et 14 ^^</a>"
+        }
+	],
+    "01/2017": [
+		{
+            "titre": "Reportage M&eacute;ga Infos R&eacute;givision",
+            "image": "",
+			"video": "https://www.youtube.com/watch?v=bSO4rSfk5QQ",
+            "texte": "<br/>Voici un petit reportage sur la Salon du Livre et de la BD de Ser&eacute;mange-Erzange, auquel j&rsquo;&eacute;tais pr&eacute;sente en d&eacute;dicace ce dimanche 5 f&eacute;vrier :) &hearts;<br/>Il a &eacute;t&eacute; r&eacute;alis&eacute; par R&eacute;givision/Megainfos ^^<br/><a href='https://www.youtube.com/watch?v=bSO4rSfk5QQ' target='_blank'>salon du livre et la BD de Ser&eacute;mange-Erzange</a>"
+        },
+        {
+            "titre": "D&eacute;dicaces &agrave; S&eacute;r&eacute;mange-Erzange !",
+            "image": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/15203357_657536731115494_3274172557576502591_n.jpg?oh=63a445e5e9f9549a0411801a0d6ecb22&oe=59225419",
+            "texte": "N&#039;oubliez pas ! Je serai en d&eacute;dicaces au Salon du livre et de la BD de S&eacute;r&eacute;mange-Erzange le Dimanche 5 F&eacute;vrier 2017, de 10h &agrave; 18h !! ;)"
+        },
+        {
+            "titre": "Depuis ma fen&ecirc;tre...",
+            "image": [
+                "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/15965166_649429221926245_928006153677994019_n.jpg?oh=f2de11bf12c2470822872c8eed1fae24&oe=590E4FFB",
+                "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/15826284_649430258592808_8601499902549128477_n.jpg?oh=0ec8b6e626252efc32751b832b5c4ddc&oe=591BA715",
+                "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/15966010_649429291926238_3002707777395539737_n.jpg?oh=393baf1fffb4d3461e346f9cc20c9c5b&oe=590053D9",
+                "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/15873623_649430301926137_5070080747065500333_n.jpg?oh=d4ddf2f4be2e6bc078037f4224c8c965&oe=59122B42",
+                "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/15895062_649429488592885_1411242102769015103_n.jpg?oh=7c3476d8bd6013f367d12d87fd3522af&oe=5901DB1A",
+                "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/15871502_649430415259459_5445407186817153786_n.jpg?oh=6f2a88cac732effae8467d94be94802d&oe=59143DF6"
+            ],
+            "texte": "Je regarde par la fen&ecirc;tre, un caf&eacute; chaud &agrave; la main. Le ciel d&eacute;verse ses petits morceaux de nuages partout sur les jardins. D&eacute;j&agrave;, l&rsquo;&eacute;pais manteau de puret&eacute; recouvre le sol herbeux. Je grelotte un peu&hellip; <br/>Emmitoufl&eacute;e dans un ch&acirc;le de laine, je songe&hellip; Je suis bien ici. Un petit oiseau, l&eacute;ger et fragile, se pose sur une branche juste devant moi. Malgr&eacute; le pr&eacute;dateur qui le regarde, all&eacute;ch&eacute;, il chante. Il se met &agrave; danser, il me parle, comme pour me remercier de sa pitance matinale dans les arbres blanchis par le froid. Que l&rsquo;air est doux&hellip; Puis il s&rsquo;envole&hellip;<br/>Le givre a fig&eacute; le temps l&rsquo;espace d&rsquo;un instant. Je me sens bien. Pi&eacute;g&eacute; dans la glace, tout semble immobile et portant&hellip; la vie danse par ici. Le calme m&rsquo;envahit quand mes yeux se posent sur le lointain. Les collines blanches se fondent dans l&rsquo;immensit&eacute; du ciel, on en distingue plus l&rsquo;horizon. Le renard, la biche et le corbeau ne jouent plus &agrave; cache-cache.<br/>Ici, la vie est un ballet o&ugrave; la nature nous porte et nous emporte loin de ce monde. Tout est beau, tout est merveilleux, tout est f&eacute;erique.<br/>Je vous souhaite &agrave; tous une merveilleuse ann&eacute;e 2017 pleine de bonheur et de magie. Que vos yeux ne cessent de s&rsquo;&eacute;merveiller des beaut&eacute;s simples (mais complexes) que vous offre la vie &hearts; Chaque petit instant est une f&eacute;erie.<br/>Et, de nouveau, il neige.<br/><br/>Bien &agrave; vous.<br/>A.E Ferrets<br/><br/>Ainsi, je prends mes marques dans ma nouvelle cit&eacute;, &agrave; l&#039;Est du royaume de Faerwynn &hearts;<br/>*photographies : A.E Ferrets"
+        }
+    ],
+    "12/2016": [
+        {
+            "titre": "Souvenir du Salon de Somain !",
+            "image": [
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15327464_634036870132147_6263420606647804712_n.jpg?oh=04b91489ffe6db4c319edc3d0c779cae&oe=58F031C0",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15337478_634037096798791_1038972479072687804_n.jpg?oh=4d2e2e2f10353c79b6c7cff751cb9fbb&oe=58F7BEAD",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15400940_634038630131971_6268570015472807048_n.jpg?oh=32f90f567555b1fa7cfe1d094b12f0e5&oe=58F292BD",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15391174_634038243465343_5241332071013505447_n.jpg?oh=ad13e6e0064f886a5e7be734e9cf090d&oe=58B81DEB",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15355850_634037923465375_6407272213866844871_n.jpg?oh=c6831f71a2bdfb6dc73a685ccef6648a&oe=58ECA5E0",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15326443_634038213465346_5831981901976045594_n.jpg?oh=46e9676b3c890d1d718e418dc8d39d4c&oe=58BA4E31",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15350470_634037636798737_4301381631836772965_n.jpg?oh=0ca3f92ec34da8d4404b9612d1306958&oe=58B305DD",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15355709_634037400132094_8239531350369995100_n.jpg?oh=adecb835b1258d75ba1ef862f885d1a0&oe=58B8E578",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15356525_634038636798637_8458276481484066833_n.jpg?oh=cdc96c25461b73163bf75cb20b6cff33&oe=58B86DDE",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15349601_634038663465301_1726330141925209389_n.jpg?oh=8c2747cf6750a68de0a684fe50a656f9&oe=58FC3A53",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15400351_634038096798691_4563099626734127573_n.jpg?oh=38c402f24a1b36da33febf94ceccdebc&oe=58F80284",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15337534_634039103465257_4967668100908110891_n.jpg?oh=c40b564c6763ce69d05b449b083b44f3&oe=58F44EC9",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15326345_634038690131965_3855595558341928900_n.jpg?oh=64ef2e5165eedcaf94637ba80247823e&oe=58B5645A",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15338829_634037036798797_3141371968535955769_n.jpg?oh=3083d9fea92e4012d420b01c1c18adbe&oe=58F2158A",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15326543_634038766798624_5253036330479042398_n.jpg?oh=ff9a6a1e4c0a44f842bfe5f5284c1658&oe=58FB760E",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15439798_634039003465267_4881418768429534804_n.jpg?oh=b714033533a495a90c2501bae9555f1a&oe=58B5F642",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15350615_634038946798606_7280262942685855053_n.jpg?oh=4484e82de08abf7ed11eb67a4f38305d&oe=58F7AA29",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15317847_634037736798727_2171077598218561560_n.jpg?oh=3e1b3f6be05feab0cf1438e960b922f4&oe=58ECDDE0",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15327366_634038156798685_5032322041074740786_n.jpg?oh=a8eb712ca71bf2769c83bd75bde16924&oe=58BCB7B5",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15439856_634038370131997_7708227653553957151_n.jpg?oh=b9ec7f05394f8aeb5899972ae1f7a65a&oe=58E9F070",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15326513_634036803465487_4699571994749825771_n.jpg?oh=1f19537f82eb373c81c6081be051931c&oe=58EFABFA",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15390722_634037900132044_7717690332335505682_n.jpg?oh=11b031597e739d62f8d50e3af4b22cfa&oe=58E7C682",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15337474_634037930132041_5714462490107705632_n.jpg?oh=357de6dafe43495edb466f50bd779e14&oe=58B62606",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15319259_634037890132045_7080731122927533476_n.jpg?oh=d306b20657cf51bd82900d53beff5031&oe=58F0A2C1",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15350489_634039176798583_6618893219030564944_n.jpg?oh=a1174fef3c9fe386f53398adf6a02a9d&oe=58FB5F27",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15285014_634036716798829_5611162428108635830_n.jpg?oh=9de4666e2aff01643d8fb72607807fa1&oe=58E64FF6",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15400392_634038743465293_296007480347765514_n.jpg?oh=f034745d68b163be56f647f52f62d7e8&oe=58AED866",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15337486_634038033465364_2319554497731746106_n.jpg?oh=de1c479a66444658da3fd1e0dd44c048&oe=58AEA626",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15420999_634037733465394_639967917834591716_n.jpg?oh=1cfc420f59e093ac0792ca88a56a363d&oe=58B3079F",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15317902_634037686798732_6833128716146585531_n.jpg?oh=69664468e949e8957aca93772fa30008&oe=58B1F588",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15356623_634037810132053_8980460612409752059_n.jpg?oh=16b2840446c196ec2c71517af5e3fc53&oe=58F70904",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15319124_634038420131992_1649936659897723899_n.jpg?oh=6f093580398161ce38acac2113a18cf9&oe=58F08E9A",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15439868_634038776798623_4601318261772795980_n.jpg?oh=be6d5a712e36026ba0ad7ad93679980a&oe=58F41878",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15326402_634038390131995_7508358181746893020_n.jpg?oh=2131123b1005d8965dcb8d13ad70dce9&oe=58F8D666",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15356658_634038260132008_2188452405071362452_n.jpg?oh=d9d002b85961fe72550dbda06fd93e1b&oe=58AFB391",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15327505_634038060132028_7885834407074980339_n.jpg?oh=c51246e60289fe7f4b879efaa1764c12&oe=58E89B98",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15420995_634038460131988_4250183020411046196_n.jpg?oh=ada63a803ed6262ad36955b30bfa598f&oe=58B93BE1",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15055816_634039060131928_8697604146462263923_n.jpg?oh=b38c01a753745fe30cb66758479f0053&oe=58FC7837",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15284110_634039173465250_8097105402420070611_n.jpg?oh=e316d78791b14d997258f1fd0d5b7519&oe=58F16697",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15284190_634039560131878_8675391358930137344_n.jpg?oh=7df5c411b2b3c133bc62a9c28cbfb695&oe=58B5F769",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15326461_634039586798542_4616002154144966944_n.jpg?oh=fd848551b633c418f423053b26d07bb0&oe=58F6DF8D",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15400498_634039080131926_5157329463285195260_n.jpg?oh=479e7edf45b883c6692994ee3b89f263&oe=58AED2E5",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15390747_634037116798789_3962781690360857652_n.jpg?oh=81e616e318463a7b51c8a14091adf913&oe=58B79A32",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15380685_634039490131885_2055615694643895204_n.jpg?oh=f9e4d3bc3b2c68cae7e89af770feadc3&oe=58F0433E",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15327503_634037520132082_4291949795269831444_n.jpg?oh=a4118d859201d32eb9b362fe07785dbf&oe=58B0D9A8",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15380769_634038790131955_1440534175820051730_n.jpg?oh=87fb3483603af3b2414bd55fd53e1905&oe=58F2274D",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15400310_634038870131947_4346580162034883891_n.jpg?oh=85b062ef5ccdbe2a1042ed9b96488d0f&oe=58EC230A",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15355756_634038913465276_2517450867959340892_n.jpg?oh=5a8c2e75975b6afb1fadd3660b755c39&oe=58B790AD",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15439856_634038186798682_8371970161799602922_n.jpg?oh=1541ddaa5cf2cd63e3dc64cc403155a9&oe=58EF30FF",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15400888_634038240132010_2927865038032625257_n.jpg?oh=edd2a73ccfb428ab250b4c19bd6a2ad2&oe=58F4D466",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15319038_634036696798831_8353495174377485530_n.jpg?oh=c29b0a25245536ec62767cab8197937c&oe=58F88703",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15420804_634038553465312_1560319410756333869_n.jpg?oh=c50f297fdacc7273c43a98ba8cfe1315&oe=58E9B913",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15319045_634039433465224_3279804302268538105_n.jpg?oh=5a3f622e46891361efe4dfcc7e5dfd88&oe=58B49711",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15338798_634039053465262_7791385143240587647_n.jpg?oh=ee1fbb1556d4c542296782227a8e39d8&oe=58EB5413",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15319160_634037256798775_8777722314922526688_n.jpg?oh=af85e20f73a3e6e2c3b7dcd5dd3403d8&oe=58B15917",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15319035_634038926798608_4804153719773190116_n.jpg?oh=88a336d81e2a2674ce6151def8be071d&oe=58F795A0",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15421030_634038093465358_1150293331412097202_n.jpg?oh=cdb464c81d45f0cbc3e12fea3efff585&oe=58F98102",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15284934_634037580132076_407427922250355495_n.jpg?oh=89a5f32e711e0b562e7b932a7a089114&oe=58EDB736",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15356721_634037616798739_8462532554592283750_n.jpg?oh=5e7787a70f881dcdc73d493893008ce8&oe=58F53C06",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15390922_634039393465228_2620800796111396067_n.jpg?oh=60d89d5b9fb104218455794012a971d1&oe=58FA9ADF",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15400974_634038940131940_5246937056604476177_n.jpg?oh=254a785b7c2f59dfffcdd52c4726913d&oe=58E7D7CD",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15400545_634038613465306_1461246597521542374_n.jpg?oh=895ba50f30487d3c80f988609e385aac&oe=58F37C5E",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15400947_634039230131911_1634899369912849638_n.jpg?oh=9079a62b10a4489127124bf7bf6c06d8&oe=58B11AC4",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15356625_634039330131901_8522467565967534594_n.jpg?oh=dfbefd00ba635a021760ae20a6c26371&oe=58B48860",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15390953_634039370131897_2182254622289953652_n.jpg?oh=13f6f7f3843e314f278dbefefef7c476&oe=58B2318C",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15319215_634039233465244_1313650184765305105_n.jpg?oh=f288eebed730da68035c730329236690&oe=58B8FA8F",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15350510_634039430131891_8654723391478641196_n.jpg?oh=bc4b2a2d8bb92c99012c0384dee7851f&oe=58EDFA90",
+                "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15380809_634039396798561_53194793374584121_n.jpg?oh=f5393b2083cc3d07286c382deddf8127&oe=58E761AC"
+            ],
+            "texte": "Voici les photos souvenirs des d&eacute;dicaces au Salon du livre de Somain, le 3 et 4 d&eacute;cembre 2016 ! Plus qu&rsquo;un salon, un lieu o&ugrave; l&rsquo;on se sent presque chez soi, en famille ou entre amis !! J&rsquo;ai vraiment pass&eacute; un merveilleux moment en votre compagnie, fait de magnifiques rencontres et j&rsquo;emporte de beaux souvenirs ind&eacute;l&eacute;biles !!! Mention sp&eacute;ciale &agrave; l&rsquo;organisation au top de ce salon, &agrave; son &eacute;quipe au petit soin, c&rsquo;&eacute;tait vraiment tr&egrave;s r&eacute;ussit ! Et j&rsquo;ai &eacute;t&eacute; tr&egrave;s heureuse de voir des faunes !! XD Bref, un salon plein de magie ! &hearts; J&rsquo;esp&egrave;re vous revoir l&rsquo;ann&eacute;e prochaine &hearts;"
+        }
+    ],
+    "11/2016": [
+        {
+            "titre": "Souvenir du Salon de Loos !",
+            "image": [
+                "http://68.media.tumblr.com/7086168dc0969fbde327d8f699f28d56/tumblr_oht9oeUDUX1v9kmzso1_1280.jpg",
+                "http://68.media.tumblr.com/6460e9bdf6982896f934528d8b6e044c/tumblr_oht9oeUDUX1v9kmzso2_1280.jpg",
+                "http://68.media.tumblr.com/1278526310a655f3c4f86683fbe91386/tumblr_oht9oeUDUX1v9kmzso4_1280.jpg",
+                "http://68.media.tumblr.com/e0052cb98802df96b8ec3c4914aea82c/tumblr_oht9oeUDUX1v9kmzso5_1280.jpg",
+                "http://68.media.tumblr.com/501ae4c3013601cfce9adafc896564f7/tumblr_oht9oeUDUX1v9kmzso8_1280.jpg",
+                "http://68.media.tumblr.com/7059d8e4666e964b2b12a29ecc8e1c13/tumblr_oht9oeUDUX1v9kmzso6_1280.jpg",
+                "http://68.media.tumblr.com/1553498700b0ae936eb6c666ee27c41a/tumblr_oht9oeUDUX1v9kmzso7_1280.jpg",
+                "http://68.media.tumblr.com/5ac7ef718137b83b1203333339ad07d2/tumblr_oht9oeUDUX1v9kmzso9_1280.jpg",
+                "http://68.media.tumblr.com/c46a36c92cc1edfb99bf4d18a829167b/tumblr_oht9oeUDUX1v9kmzso10_1280.jpg",
+                "http://68.media.tumblr.com/d82b09dd2e4c2eab19d5f510c3bb7df8/tumblr_ohta0n4EhF1v9kmzso2_1280.jpg",
+                "http://68.media.tumblr.com/b4f722e35f734b8f1501f15035900235/tumblr_ohta0n4EhF1v9kmzso1_1280.jpg",
+                "http://68.media.tumblr.com/bb4d71ba7163a2b1e1bbf940bc91fd1b/tumblr_ohta0n4EhF1v9kmzso4_1280.jpg",
+                "http://68.media.tumblr.com/9c7bd6e9baf405dfd890a55a21b5b28e/tumblr_ohta0n4EhF1v9kmzso5_1280.jpg",
+                "http://68.media.tumblr.com/e024ba1aa072643929e257328253dcdc/tumblr_ohta0n4EhF1v9kmzso3_1280.jpg",
+                "http://68.media.tumblr.com/406579726f336756a177013827d5acb9/tumblr_ohta0n4EhF1v9kmzso6_1280.jpg",
+                "http://68.media.tumblr.com/19ea26bd350a1d6cd17f9c13dc4b7170/tumblr_ohta0n4EhF1v9kmzso7_1280.jpg",
+                "http://68.media.tumblr.com/ec5894cbc9e0c8e827036bd75a0bc1b7/tumblr_ohta0n4EhF1v9kmzso8_1280.jpg",
+                "http://68.media.tumblr.com/37e0addc40dd82833fec995f64d00cc3/tumblr_ohta0n4EhF1v9kmzso9_1280.jpg",
+                "http://68.media.tumblr.com/6b68d43ec3402fd8d784e6e7a30f8dd1/tumblr_ohta0n4EhF1v9kmzso10_1280.jpg",
+                "http://68.media.tumblr.com/7dc383cdfee954a7073fb87ed1d156b3/tumblr_ohtaagfqF61v9kmzso1_1280.jpg",
+                "http://68.media.tumblr.com/3ecdabef2ff836fd48a7129793af3016/tumblr_ohtaagfqF61v9kmzso3_1280.jpg",
+                "http://68.media.tumblr.com/278c85282b9aaa4171aebf7d2dd983ee/tumblr_ohtaagfqF61v9kmzso5_1280.jpg",
+                "http://68.media.tumblr.com/2196229a7527126ef24b00fa1a2e2f48/tumblr_ohtaagfqF61v9kmzso2_1280.jpg",
+                "http://68.media.tumblr.com/f3fe9ae46f524718626503e5d93cb059/tumblr_ohtaagfqF61v9kmzso6_1280.jpg",
+                "http://68.media.tumblr.com/c5380b6ed0aed19117c7a6fd5c8e9e74/tumblr_ohtaagfqF61v9kmzso4_1280.jpg",
+                "http://68.media.tumblr.com/31b277f0079db96af0e495062c8cc0e3/tumblr_ohtaagfqF61v9kmzso7_1280.jpg",
+                "http://68.media.tumblr.com/9744998dc4aef7a6e5ad7903e2beba1b/tumblr_ohtaagfqF61v9kmzso8_1280.jpg",
+                "http://68.media.tumblr.com/489ce5f3b3a628700dd6d675059d2361/tumblr_ohtaagfqF61v9kmzso10_1280.jpg",
+                "http://68.media.tumblr.com/062d083632a56a6552a9756a72aeeb61/tumblr_ohtaagfqF61v9kmzso9_1280.jpg",
+                "http://68.media.tumblr.com/8afac782f9e4c12f211d9581a62e8b10/tumblr_ohtaldTQhk1v9kmzso1_1280.jpg",
+                "http://68.media.tumblr.com/9c421b3572aaa6dbb35c66f5a142d26d/tumblr_ohtaldTQhk1v9kmzso2_1280.jpg",
+                "http://68.media.tumblr.com/0dc02eba7049daff2b897c65a0680ce5/tumblr_ohtaldTQhk1v9kmzso3_1280.jpg",
+                "http://68.media.tumblr.com/d30373b263d7289d77e313a331eea234/tumblr_ohtaldTQhk1v9kmzso4_1280.jpg"
+            ],
+            "texte": "Petit retour en photos sur les d&eacute;dicaces du Salon du livre de Loos, qui ont eu lieu le samedi 26 novembre 2016. Un moment vraiment magique et color&eacute;, partag&eacute; avec petits et grands &hearts; Encore une fois, j&rsquo;y ai fait de magnifiques rencontres que je garde bien pr&eacute;cieusement au creux de mon petit c&oelig;ur de polymorphe ! :p Merci &agrave; vous ! &hearts;&hearts;<br /><br />Je souhaite une tr&egrave;s belle lecture &agrave; Soline, Tiphaine, Alexis, Sandrine, Chlo&eacute;, Nataly, Theras (d&eacute;sol&eacute;, je ne sais toujours pas l&#039;&eacute;crire ^^&ldquo;), Mathilde, Maude, Fran&ccedil;ois, Morgane, Cl&eacute;mentine, Solange, Joyce, Katia, Paul, Thomas et tous les autres !! &hearts;&hearts;&hearts;"
+        },
+        {
+            "titre": "D&eacute;dicaces &agrave; Somain !",
+            "image": "http://66.media.tumblr.com/2f8a2b74eb923b5cf423f0aa725f4cd5/tumblr_ohg8onXlKh1v9kmzso1_400.jpg",
+            "texte": "N&#039;oubliez pas ! Ce weekend, je serai en d&eacute;dicace au Salon du Livre de Somain, qui aura pour th&egrave;me : le Fantastique !!<br />Ce sera Samedi 3 et Dimanche 4 D&eacute;cembre de 10h &agrave; 18h ! (au Centre Culturel Albert Camus, Place Victor Brachelet, 59490 Somain.)<br />J&#039;ai h&acirc;te de vous revoir !!! &hearts;"
+        },
+        {
+            "titre": "Journal &quot;La Voix Du Nord&quot; !",
+            "image": [
+                "http://66.media.tumblr.com/ae180a20f31b626bb70da45e5773b082/tumblr_ohb2mgmPAg1v9kmzso1_1280.jpg",
+                "http://66.media.tumblr.com/93481c36ff82e3f977aa34b06ad602fd/tumblr_ohb2mgmPAg1v9kmzso2_1280.jpg",
+                "http://67.media.tumblr.com/d0d7e285dbf0a4deeba9ed75a08a4e33/tumblr_ohb2mgmPAg1v9kmzso3_1280.jpg",
+                "http://67.media.tumblr.com/095f387e9fd63ac0aef2a55370f040ac/tumblr_ohb2mgmPAg1v9kmzso4_1280.jpg"
+            ],
+            "texte": "A.E Ferrets et Ma&icirc;tre L&eacute;zard sur le site officiel du journal &quot;La voix du Nord&quot; ! &hearts;&hearts;&hearts;"
+        },
+        {
+            "titre": "Des surprises au salon de Loos !",
+            "image": "http://66.media.tumblr.com/6964fb1d892eb365d677a27071ca8d76/tumblr_oh5h5hXqI41v9kmzso1_500.jpg",
+            "texte": "Des surprises, disais-je ? Oui oui !! Le Salon du livre de Loos approche &agrave; grands pas ! &Agrave; cette occasion, vous pourrez : <br />-&gt; Faire d&eacute;dicacer votre exemplaire de &laquo; La Petite Porte &raquo; &lt;3<br />-&gt; Faire une petite photo ensemble &lt;3<br />-&gt; Bien &eacute;videment : me rencontrer et discuter ! &lt;3<br />-&gt; Acheter &laquo; La Petite Porte &raquo; &lt;3<br />MAIS AUSSI !!<br />-&gt; D&eacute;couvrir les 3 premiers chapitres de mon nouveau roman fantasy intitul&eacute; : &laquo; Ana&euml;lle - Tome 1 : Le Royaume de l&rsquo;Arbre-Feuille &raquo; ! (qui est actuellement en cours d&rsquo;&eacute;criture) &lt;3<br />AINSI QUE !!<br />-&gt; Les 3 premi&egrave;res pages de mon livre pour enfant intitul&eacute; : &laquo; Grenouillette et son violon &raquo; ! (&eacute;galement en cours d&rsquo;&eacute;criture/illustration :) ) &lt;3<br />C&rsquo;est ce samedi 26 novembre, de 10h &agrave; 18h, &agrave; Loos ! ;)"
+        },
+        {
+            "titre": "Nouvelles cartes de visite !",
+            "image": [
+                "http://67.media.tumblr.com/aa0c269aa607fb85c5e2aba898002bdb/tumblr_oh3m2c288f1v9kmzso2_1280.jpg",
+                "http://67.media.tumblr.com/e8bd3d16711d4b892974994980827391/tumblr_oh3m2c288f1v9kmzso1_1280.jpg"
+            ],
+            "texte": "Voici mes nouvelles petites cartes de visite ! Elles seront distribu&eacute;es pour la premi&egrave;re fois lors du Salon du livre de Loos, ce samedi 26 novembre ^^ :)<br/>Elles sont bien s&ucirc;r plus jolies en vrai, ici on ne voit pas les jolies couleurs &hearts;"
+        },
+        {
+            "titre": "Les &Eacute;ditions Faerwynn",
+            "image": [
+                "http://67.media.tumblr.com/ba3ed3b7c5878b83b34f8a3d082e326d/tumblr_ogl5pyMBos1v9kmzso1_500.jpg",
+                "http://67.media.tumblr.com/79104881bf73c114b237d1b4af64f1db/tumblr_ogl5pyMBos1v9kmzso2_500.jpg"
+            ],
+            "texte": "Lancement des &Eacute;ditions Faerwynn ;)"
+        },
+        {
+            "titre": "D&eacute;dicace &agrave; Loos !",
+            "image": "http://67.media.tumblr.com/38e54737dbfb238932a6422b8ded308e/tumblr_ogl5eiwGEe1v9kmzso1_400.jpg",
+            "texte": "Chers habitants du royaume de Faerwynn ! Voici l&#039;affiche officielle du salon du livre de Loos, auquel vous pourrez me rencontrer et faire d&eacute;dicacer &ldquo;La Petite Porte&rdquo; ! :) Un grand moment que j&#039;ai h&acirc;te de partager avec vous ! &hearts;"
+        },
+        {
+            "titre": "D&eacute;dicace aux Dormantastique !",
+            "image": "http://66.media.tumblr.com/836cf89cd0b19779eacb176d5c54cd8e/tumblr_ogl4v3e7c01v9kmzso1_500.jpg",
+            "texte": "Normalement, je serai en d&eacute;dicace au salon &ldquo;Le Dormantastique&rdquo; le 22 et 23 juillet 2017 au ch&acirc;teau de Dormans !!! &hearts;<br/>Hooo que j&#039;ai h&acirc;te !! En plus, si tout se passe bien, j&#039;aurai des petites surprises pour vous ! ^^"
+        }
+    ],
+    "10/2016": [
+        {
+            "titre": "Ana&euml;lle chapitre 5 !",
+            "image": "http://67.media.tumblr.com/654d45b3133a2ca7063cf1a6808d4e5a/tumblr_ogl4aosy641v9kmzso1_1280.jpg",
+            "texte": "&Eacute;criture du chapitre 5 &hearts;"
+        },
+        {
+            "titre": "D&eacute;dicace &agrave; Loos !",
+            "image": "http://66.media.tumblr.com/ee326cfd233634a50b4b219674f5318d/tumblr_ogl3xyc1Gu1v9kmzso1_500.jpg",
+            "texte": "Je serai pr&eacute;sente au Salon du livre de Loos pour 14&egrave;me &eacute;dition, le Samedi 16 Novembre 2016, de 10h &agrave; 18h, Salle Gaston Caby au 230 rue Descartes 59120 Loos !<br/>&Agrave; vos agendas ! ^^"
+        },
+        {
+            "titre": "Ana&euml;lle chapitre 4 !",
+            "image": "http://66.media.tumblr.com/654d45b3133a2ca7063cf1a6808d4e5a/tumblr_ogl3l2SBq61v9kmzso1_1280.jpg",
+            "texte": "&Eacute;criture du chapitre 4 de &ldquo;Ana&euml;lle, Tome 1 : Le Royaume de l&#039;Arbre-Feuille&rdquo; bien avanc&eacute; ! ^^"
+        },
+        {
+            "titre": "Extrait de &laquo; La Petite Porte &raquo;",
+            "image": "http://67.media.tumblr.com/31d2f132b1f9ef596dc7aae72828c76c/tumblr_ofljeprUr71v9kmzso1_540.jpg",
+            "texte": "Retrouvez La Petite Porte sur <a href='http://www.lulu.com/shop/ae-ferrets/la-petite-porte/paperback/product-22651001.html' target='_blank'>Lulu.com</a>"
+        },
+        {
+            "titre": "Salon du Fantastique - Vernaison",
+            "image": "http://66.media.tumblr.com/14a944ae306f95d55d33179a81663466/tumblr_ofk92pEURW1v9kmzso1_1280.jpg",
+            "texte": "A.E Ferrets et Ma&icirc;tre L&eacute;zard lors du march&eacute; Vernaison Fantastique &#9786;"
+        },
+        {
+            "titre": "Bo&icirc;te &agrave; livre - Katia Campagne",
+            "image": "http://67.media.tumblr.com/1c5a04862b613b63bb6eb0e854cafb9d/tumblr_ofcflsnECH1v9kmzso1_1280.jpg",
+            "texte": "Hier, &laquo; La Petite Porte &raquo; s'est envol&eacute; vers la bo&icirc;te &agrave; livre de la r&eacute;gion Centre-Val de Loire ! :) Un beau projet et une belle initiative de Katia Campagne ! ^^"
+        },
+        {
+            "titre": "&Agrave; l'ecoute des livres - La Petite Porte",
+            "image": "http://www.vieetpartage.com.preview08.oxito.com/App_Data_Pub/fichiers/NgAzADQAOQAwADQANAAzADYAOAA3ADcAMQA2ADEANAAwADYA.jpg",
+            "texte": "Bonjour &agrave; tous chers habitants du royaume de Faerwynn et d&rsquo;ailleurs ! <br/>Aujourd&rsquo;hui, un chuchoteur venu de Guad'enpoulpe m&rsquo;a chuchot&eacute; quelques mots &agrave; propos de &laquo; La Petite Porte &raquo;. &#9786;<br/>Je vous laisse d&eacute;couvrir son chuchotement sur sa Chrisalymphe intitul&eacute;e &laquo; &Agrave; l&rsquo;&eacute;coute des livres &raquo; en rapport avec son &eacute;mission diffus&eacute;e sur Radio Massabielle.<br />Un grand merci &agrave; Roland Francoise pour le temps qu&rsquo;il a accord&eacute; &agrave; la lecture de La Petite Porte &lt;3<br/>(ainsi que sur : <a href='http://www.bloghotel.org/alecoutedeslivres/477982/' target='_blank'>http://www.bloghotel.org/alecoutedeslivres/477982/</a>)"
+        },
+        {
+            "titre": "Rose arc-en-ciel",
+            "image": "http://65.media.tumblr.com/02369768ec2d93f2d3ff8eafdd2d51be/tumblr_of15n2FZ921v9kmzso1_500.jpg",
+            "texte": "J'ai termin&eacute; ma peinture ! Voila une jolie rose arc-en-ciel pour mon dossier de presse ^^ "
+        },
+        {
+            "titre": "Le grand soir !",
+            "image": "http://65.media.tumblr.com/70aed761f74579b352d353a1c93e4871/tumblr_oekpalBYsy1v9kmzso1_1280.jpg",
+            "texte": "Tr&egrave;s chers habitants du royaume de Faerwynn et d&rsquo;ailleurs ! <br/>Ce soir, c&rsquo;est le grand soir ! &Agrave; vos radios! <br/>Ne ratez pas le chuchotement de Roland Francoise sur mon livre : &laquo; La Petite Porte &raquo; en direct de Guadeloupe !! <br/>Rendez-vous &agrave; 18h30 (00h30 en France m&eacute;tropolitaine) sur Radio Massabielle, 97.8 et 101.8 bande FM ! ^^<br />Et si vous n&rsquo;avez pas de radio sous les ailes, &laquo; VLC &raquo; est votre ami ;)"
+        }
+    ],
+    "09/2016": [
+        {
+            "titre": "La Petite Porte sur Radio Massabielle",
+            "image": "http://www.vieetpartage.com.preview08.oxito.com/App_Data_Pub/fichiers/NgAzADQAOQAwADQANAAzADYAOAA3ADcAMQA2ADEANAAwADYA.jpg",
+            "texte": "Tr&egrave;s chers habitants du royaume de Faerwynn et d&rsquo;ailleurs, j&rsquo;ai une tr&egrave;s bonne nouvelle !<br/>Un chuchotement provenant de Guadeloupe est venu jusqu&rsquo;&agrave; moi pour m&rsquo;informer que La Petite Porte sera chroniqu&eacute;e Mercredi prochain (<b>Mercredi 5 octobre</b>) &agrave; l&rsquo;antenne de <b>Radio Massabielle</b>, dans l&rsquo;&eacute;mission &laquo; <b>&agrave; l&rsquo;&eacute;coute des livres</b> &raquo; anim&eacute;e par <b>Roland Francoise</b> !<br/>Je vous donne donc rendez-vous <b>mercredi 5 octobre &agrave; 18h30 ( 00h30 en France m&eacute;tropolitaine)</b> pour &eacute;couter son chuchotement !<br/>Un article sur La Petite Porte sera mis en ligne courant octobre sur la Chrisalymphe de l&rsquo;&eacute;mission :) Je vous tiens inform&eacute; ! &lt;3<br /><a href='http://alecoutedeslivres.over-blog.com/' target='_blank'>http://alecoutedeslivres.over-blog.com/</a>"
+        },
+        {
+            "titre": "Work in progress",
+            "image": "http://66.media.tumblr.com/5eec1a5c99e538b7a26cf8eba7278066/tumblr_oe67jxSAz71v9kmzso1_1280.jpg",
+            "texte": "En attendant, un peu de peinture pour mon dossier de presse&hellip; &lt;3 [work in progress]"
+        },
+        {
+            "titre": "C&rsquo;est reparti !",
+            "image": "",
+            "texte": "Les b&ecirc;ta-lectures continuent !! ^^"
+        },
+        {
+            "titre": "Des sorci&egrave;res ?",
+            "image": "",
+            "texte": "Une histoire de sorci&egrave;res ? Une histoire de sorci&egrave;res&hellip; Hum&hellip;"
+        },
+        {
+            "titre": "Nouvelle carte de visite",
+            "image": [
+                "http://67.media.tumblr.com/842ab18cd6d556f970d03e3965c1ccbe/tumblr_odwx7z2i2a1v9kmzso1_400.png",
+                "http://67.media.tumblr.com/72b1e4d8faf5e4387ef67bfecc956de2/tumblr_odwx7z2i2a1v9kmzso2_400.png"
+            ],
+            "texte": "Suite &agrave; vos remarques, l&#039;ancienne carte refaite &agrave; neuf (face et dos)"
+        },
+        {
+            "titre": "Carte de visite",
+            "image": [
+                "http://66.media.tumblr.com/81b10208e92e679d95bb4c0cbd9e4287/tumblr_odwfzhM62v1v9kmzso1_400.png",
+                "http://67.media.tumblr.com/293b75a2402bc77bbbf4b095aab78ff9/tumblr_odwfzhM62v1v9kmzso2_400.png"
+            ],
+            "texte": "Ma nouvelle carte de visite et l&#039;ancienne :) Des avis ? "
+        },
+        {
+            "titre": "Promo La Petite Porte",
+            "image": "http://66.media.tumblr.com/3008f8accd0521897ebe0331ba3df784/tumblr_odui5nTf4U1v9kmzso1_1280.png",
+            "texte": "[PROMO !!]<br/>Profitez des FRAIS DE PORT OFFERTS sur l&#039;achat de mon livre &ldquo;La Petite Porte&rdquo; sur lulu.com!<br/>Appliquez le code : SEPTSHIP16<br />Offre valable jusqu&#039;au 26 septembre. ^^ C&#039;est le moment de vous faire plaisir ! ;)<br /><a href='http://www.lulu.com/shop/ae-ferrets/la-petite-porte/paperback/product-22651001.html'>http://www.lulu.com/shop/ae-ferrets/la-petite-porte/paperback/product-22651001.html</a>"
+        },
+        {
+            "titre": "Relecture / correction",
+            "image": "http://67.media.tumblr.com/654d45b3133a2ca7063cf1a6808d4e5a/tumblr_odt2mh4DTh1v9kmzso1_1280.jpg",
+            "texte": "Relecture / correction des 3 premiers chapitres en cours :)"
+        },
+        {
+            "titre": "Album Vernaison Fantastique de Saint-Ouen",
+            "image": [
+                "http://66.media.tumblr.com/9bb08f5ca1c5a7177e5d2624c01f5d89/tumblr_odrcp8TmwM1v9kmzso2_1280.jpg",
+                "http://66.media.tumblr.com/f3739ac13e168aef088a4c383aa16fc2/tumblr_odrcp8TmwM1v9kmzso3_1280.jpg",
+                "http://65.media.tumblr.com/fda6d12072bed75d72f8ffcd1c2f586d/tumblr_odrcp8TmwM1v9kmzso4_1280.jpg",
+                "http://66.media.tumblr.com/5e90ba5fcfc8324b1b5087567327904b/tumblr_odrcp8TmwM1v9kmzso1_1280.jpg",
+                "http://66.media.tumblr.com/6f71a862c22f0817737ca343c2276779/tumblr_odrcp8TmwM1v9kmzso5_1280.jpg",
+                "http://67.media.tumblr.com/b893f1883ca49e10806bf619d19b3815/tumblr_odrchmShJY1v9kmzso1_1280.jpg",
+                "http://66.media.tumblr.com/372accd8129261a31b2eb659accea44c/tumblr_odrchmShJY1v9kmzso2_540.jpg",
+                "http://66.media.tumblr.com/334328217fef23d7c8e5fd8bef47026e/tumblr_odrchmShJY1v9kmzso3_540.jpg",
+                "http://67.media.tumblr.com/a8e0286b9b51cddaef5256b5c0eca7c0/tumblr_odrchmShJY1v9kmzso4_540.jpg",
+                "http://66.media.tumblr.com/01dfbd28b01c51f69dd8adac2dcc8ba1/tumblr_odrchmShJY1v9kmzso5_540.jpg",
+                "http://67.media.tumblr.com/0125a3ab5da71e87932612261351bdc4/tumblr_odrchmShJY1v9kmzso6_540.jpg",
+                "http://66.media.tumblr.com/e6ca5962841eaa041638c1dab4c692ca/tumblr_odrchmShJY1v9kmzso7_500.jpg",
+                "http://66.media.tumblr.com/22dc4a16b92f364411528d8cf10c91ce/tumblr_odrchmShJY1v9kmzso8_1280.jpg",
+                "http://66.media.tumblr.com/a6f84231a4767b34e26def0857a06e1c/tumblr_odrchmShJY1v9kmzso9_540.jpg",
+                "http://66.media.tumblr.com/84ed2d28129fa5d6dc36926830180905/tumblr_odrchmShJY1v9kmzso10_1280.jpg",
+                "http://67.media.tumblr.com/80d3be49da5dd414e6d44ef5839cb445/tumblr_odrc97cc2t1v9kmzso1_1280.jpg",
+                "http://66.media.tumblr.com/b8d326d24ee88067bd7f72840f50ddea/tumblr_odrc97cc2t1v9kmzso2_540.jpg",
+                "http://67.media.tumblr.com/2569d1ef86ee60fe7129db052255d4fe/tumblr_odrc97cc2t1v9kmzso3_500.jpg",
+                "http://66.media.tumblr.com/c4b30d2df86ed8e2ffa787508b0a7126/tumblr_odrc97cc2t1v9kmzso8_1280.jpg",
+                "http://67.media.tumblr.com/20e4c80b0da7e219ebc156df301e7d42/tumblr_odrc97cc2t1v9kmzso7_1280.jpg",
+                "http://66.media.tumblr.com/9406f8c574761b159da03a7307b6e7a6/tumblr_odrc97cc2t1v9kmzso4_540.jpg",
+                "http://66.media.tumblr.com/febf1813acde82ceb0e77d60f43a76f8/tumblr_odrc97cc2t1v9kmzso5_1280.jpg",
+                "http://67.media.tumblr.com/2166e7a70e332a9cbf7bd080c9c304d4/tumblr_odrc97cc2t1v9kmzso9_1280.jpg",
+                "http://67.media.tumblr.com/8b932e7e857c65b83814a5ab01ea26e2/tumblr_odrc97cc2t1v9kmzso10_1280.jpg",
+                "http://65.media.tumblr.com/7c5869cd27662f6c801dfcd35f6745b4/tumblr_odrc97cc2t1v9kmzso6_1280.jpg",
+                "http://67.media.tumblr.com/60699224cbc6192aefb0d526295e5d38/tumblr_odrbu7fPQM1v9kmzso1_1280.jpg",
+                "http://66.media.tumblr.com/856e4c9f317721a3e75216e7ca3d94e4/tumblr_odrbu7fPQM1v9kmzso2_1280.jpg",
+                "http://67.media.tumblr.com/7caf7adb9875ea09883820fb097cc4d9/tumblr_odrbu7fPQM1v9kmzso3_1280.jpg",
+                "http://67.media.tumblr.com/b1f9195e5dbe113d1df94b9d57f4a959/tumblr_odrbu7fPQM1v9kmzso5_540.jpg",
+                "http://67.media.tumblr.com/f9a448cf666ae487c1dee51a9e5c3763/tumblr_odrbu7fPQM1v9kmzso6_540.jpg",
+                "http://67.media.tumblr.com/1cb4d7206c46eb60f4ae98b61b18eefe/tumblr_odrbu7fPQM1v9kmzso7_540.jpg",
+                "http://67.media.tumblr.com/37d65d27256db8dada4be577b9087fa1/tumblr_odrbu7fPQM1v9kmzso9_1280.jpg",
+                "http://67.media.tumblr.com/80d5284c98c25b91f7f457209d7df608/tumblr_odrbu7fPQM1v9kmzso10_1280.jpg",
+                "http://66.media.tumblr.com/4948b9f573b012d382a857e4c2524199/tumblr_odrbu7fPQM1v9kmzso4_1280.jpg",
+                "http://66.media.tumblr.com/a00aefa6d701a1083f76e8a6c3cb4877/tumblr_odrbu7fPQM1v9kmzso8_1280.jpg",
+                "http://65.media.tumblr.com/7186ada86829030b7608613e4322ef3c/tumblr_odras3D7nS1v9kmzso1_r1_540.jpg",
+                "http://66.media.tumblr.com/ce3069a052a4a016b4de681d4416e805/tumblr_odras3D7nS1v9kmzso9_r1_1280.jpg",
+                "http://66.media.tumblr.com/8490e48adb888065076aa19ec06c950b/tumblr_odras3D7nS1v9kmzso2_r1_500.jpg",
+                "http://65.media.tumblr.com/52667a80448118c76f07426dddd14af2/tumblr_odras3D7nS1v9kmzso3_r1_1280.jpg",
+                "http://67.media.tumblr.com/5cd4ef28124e046774f48fb8d25667e7/tumblr_odras3D7nS1v9kmzso4_r1_500.jpg",
+                "http://66.media.tumblr.com/2698ecafceaca5193307891ccaffb7a2/tumblr_odras3D7nS1v9kmzso5_r1_500.jpg",
+                "http://66.media.tumblr.com/23c84b5d71a3c00a34bca21eb0a353cd/tumblr_odras3D7nS1v9kmzso10_r1_540.jpg",
+                "http://66.media.tumblr.com/0e6b86fa600c85d46351362728d18467/tumblr_odras3D7nS1v9kmzso6_r1_1280.jpg",
+                "http://66.media.tumblr.com/35f2f09bf525be4f4ee885aa27c62b06/tumblr_odras3D7nS1v9kmzso7_r1_500.jpg",
+                "http://66.media.tumblr.com/54f220ec643cfe87f6ec610eb3b2ed31/tumblr_odras3D7nS1v9kmzso8_r1_1280.jpg",
+                "http://66.media.tumblr.com/913f9423493c09f1dbe3920d243fed3f/tumblr_odragh5ze51v9kmzso1_r1_540.jpg",
+                "http://66.media.tumblr.com/60b8d05b2f8f684490698dd50d24c033/tumblr_odragh5ze51v9kmzso2_r1_500.jpg",
+                "http://66.media.tumblr.com/e79c83dda17b451f5e537cadf06b0e49/tumblr_odragh5ze51v9kmzso9_r1_1280.jpg",
+                "http://67.media.tumblr.com/1fa45c3d9eebe23319a05e8c68fd72c0/tumblr_odragh5ze51v9kmzso3_r1_1280.jpg",
+                "http://66.media.tumblr.com/bc4afb06c48340d83028ae161dffb3fc/tumblr_odragh5ze51v9kmzso4_r1_1280.jpg",
+                "http://67.media.tumblr.com/11b82c802af1e14163abf9357cbdda71/tumblr_odragh5ze51v9kmzso5_r1_1280.jpg",
+                "http://67.media.tumblr.com/cdde4c0bea426a130aaad4452d03104c/tumblr_odragh5ze51v9kmzso6_r1_1280.jpg",
+                "http://67.media.tumblr.com/107020ce514d6e402de0f411461e2045/tumblr_odragh5ze51v9kmzso7_r1_1280.jpg",
+                "http://66.media.tumblr.com/e2d999d5d1beaaaae713738358aaaea7/tumblr_odragh5ze51v9kmzso8_r1_540.jpg",
+                "http://66.media.tumblr.com/cab4e1dfbc2ead9069af3a5c7b2f52f9/tumblr_odragh5ze51v9kmzso10_r1_1280.jpg"
+            ],
+            "texte": "En voil&agrave; un magnifique album en souvenir de notre rencontre aux d&eacute;dicaces du march&eacute; Vernaison &agrave;l&#039;occasion des puces fantastiques de Saint-Ouen !<br/> C&#039;&eacute;tait le samedi 17 septembre 2016 ! Pleins de tr&egrave;s belles rencontres, des coups de coeur, des paillettes, du r&ecirc;ve et des cr&eacute;atures, mais aussi des auteurs, des lecteurs, des illustrateurs, une maquilleuse et j&#039;en passe !<br/>Merci &agrave; vous tous pour cette superbe journ&eacute;e et ces beaux souvenirs &lt;3 Vous &ecirc;tes Fantastique :)<br />Pr&eacute;sent sur ces photos: <br /><a href='https://www.facebook.com/AEFerrets/' target='_blank'>A.E Ferrets</a>, <a href='https://www.facebook.com/March%C3%A9-Vernaison-593253627417763/' target='_blank'>March&eacute; Vernaison</a>, <a href='https://www.facebook.com/marche.vernaison' target='_blank'>March&eacute; Vernaison</a>, <a href='https://www.facebook.com/SalonFantastique/' target='_blank'>Salon Fantastique</a>,<a href='https://www.facebook.com/model.fleurdepeche/' target='_blank'>Fleur de p&eacute;ch&eacute; - Model</a>, <a href='https://www.facebook.com/asteria.karavan/' target='_blank'>Aster&igrave;a Kar&acirc;van</a>, <a href='https://www.facebook.com/iman.lockheart' target='_blank'>Iman Eyitayo</a>,<a href='https://www.facebook.com/pinsauxpucess/' target='_blank'>Pinsauxpuces</a>, <a href='https://www.facebook.com/NathalieChapouilleProfil' target='_blank'>Nathalie Chapouille</a>, <a href='https://www.facebook.com/ax.llstudio/' target='_blank'>AX.LL Studio</a>, <a href='https://www.facebook.com/ehlam.al.kymaris' target='_blank'>Ehl&acirc;m Al Kymaris</a>, <a href='https://www.facebook.com/Edzawira' target='_blank'>Lory Lory</a>, <a href='https://www.facebook.com/INCARNATIS/' target='_blank'>InCarnatis</a>, <a href='https://www.facebook.com/flo.bouyer' target='_blank'>Flo Bouyer</a>, Martine modes et accessoire"
+        },
+        {
+            "titre": "Pr&eacute;paration",
+            "image": "http://66.media.tumblr.com/0d6bc9b25ad8aac0ffbcb7e825210839/tumblr_odlc38q0oQ1v9kmzso1_1280.jpg",
+            "texte": "Pr&eacute;paration de cartes de visites pour les d&eacute;dicaces de demain :) ^^"
+        },
+        {
+            "titre": "Socle",
+            "image": [
+                "http://67.media.tumblr.com/6e7429b0d4a71752eabce297cec48af0/tumblr_odjz68eX7G1v9kmzso2_540.jpg",
+                "http://66.media.tumblr.com/fa6d6b7158a76780c56fd0539ae1c41e/tumblr_odjz68eX7G1v9kmzso1_540.jpg"
+            ],
+            "texte": "Et voil&agrave; ! :) Un joli petit socle pour que &laquo; La Petite Porte &raquo; ne tombe plus sous les attaques du vent ^^<br/>Inauguration lors du prochain salon ce weekend ! :p "
+        },
+        {
+            "titre": "Vernaison Fantastique",
+            "image": "http://67.media.tumblr.com/c1b8ff5acb41426078e25ddd28a04a1e/tumblr_odjf8dMIkv1v9kmzso1_400.jpg",
+            "texte": "Voici l&#039;affiche officielle de l&rsquo;&eacute;v&eacute;nement auquel je vous retrouverai ce <b>samedi 17 septembre</b> !<br/>Rencontres, d&eacute;dicaces, achats de &ldquo;La Petite Porte&rdquo;, photos&hellip;<br/>Un beau moment se pr&eacute;pare en votre compagnie ! H&acirc;te de vous retrouver &lt;3 &Agrave; samedi !!!<br />(Normalement, je serai plac&eacute;e aux alentours du <b>136 Avenue Michelet, 93400 Saint-Ouen</b>, mais je n&#039;ai malheureusement pas d&#039;horaire de d&eacute;part &agrave; vous donner. J&#039;y serais jusqu&rsquo;&agrave; 14h :)) "
+        },
+        {
+            "titre": "B&ecirc;ta-lecture",
+            "image": "",
+            "texte": "Et voila&hellip; On y est&hellip;<br/>Le d&eacute;but de mon nouveau roman se d&eacute;voile doucement, pour la toute premi&egrave;re fois, aux yeux de mes premiers b&ecirc;ta-lecteurs&hellip;"
+        },
+        {
+            "titre": "F&ecirc;te des Puces de Saint-Ouen",
+            "image": "http://67.media.tumblr.com/8241c9aed67a7341c8bb1e9f93acb4c4/tumblr_odg7xvqtwq1v9kmzso1_500.jpg",
+            "texte": "&Agrave; l&#039;occasion du partenariat entre le Salon Fantastique et le March&eacute; Vernaison, je serai pr&eacute;sente &agrave; la F&ecirc;te des Puces de Saint-Ouen le <b>Samedi 17 Septembre 2016 de 10h30 &agrave; 14h, 136 Avenue Michelet, 93400 Saint-Ouen.</b><br /> Une date &agrave; noter dans vos agendas ! ^^"
+        },
+        {
+            "titre": "Annonce Facebook",
+            "image": "http://66.media.tumblr.com/ab9809c31e539e96b810162d477472e3/tumblr_odebwmhm5d1v9kmzso1_1280.jpg",
+            "texte": "Tr&egrave;s chers habitants du royaume de Faerwynn et d&rsquo;ailleurs. <br/>C&rsquo;est l&rsquo;&acirc;me tremblante et le c&oelig;ur angoiss&eacute; que je vous fais cette annonce importante.<br/>L&rsquo;heure est venue de d&eacute;voiler aux regards de certains, quelques lignes de mon prochain roman !<br/>C&rsquo;est pourquoi je fais appel &agrave; vous aujourd&rsquo;hui, jeunes aventuriers !<br/>Si vous souhaitez participer &agrave; l&rsquo;aventure des b&ecirc;ta-lectures de mon prochain roman (fantastique/fantasy), merci de m&rsquo;&eacute;crire un petit commentaire sous ce poste pour vous inscrire.<br />Chaque candidature sera soigneusement &eacute;tudi&eacute;e.<br />Chers aventuriers, je vous attends ! A.E Ferrets, depuis la cit&eacute; d&rsquo;Antibulle. <br />"
+        },
+        {
+            "titre": "Voyage de La Petite Porte",
+            "image": [
+                "http://66.media.tumblr.com/ce52b1d967180f48d6120f2ce9d28c49/tumblr_ode6kq3kQy1v9kmzso1_1280.jpg",
+                "http://67.media.tumblr.com/ea5e46bca8d8554adc5c6e5ecbbce124/tumblr_ode6kq3kQy1v9kmzso2_1280.jpg",
+                "http://65.media.tumblr.com/00dae866d713023f814a68ca800b8bb4/tumblr_ode6kq3kQy1v9kmzso3_1280.jpg",
+                "http://66.media.tumblr.com/a758ba8488f23f2e27839bfedc87b47b/tumblr_ode6kq3kQy1v9kmzso4_1280.jpg",
+                "http://67.media.tumblr.com/88aeb22ec64065f2ca2d85a709393631/tumblr_ode6kq3kQy1v9kmzso5_540.jpg",
+                "http://67.media.tumblr.com/51ad90a81058be49385ad3419f0ed883/tumblr_ode6kq3kQy1v9kmzso6_1280.jpg",
+                "http://66.media.tumblr.com/e78085068505066d42871572105768b5/tumblr_ode6kq3kQy1v9kmzso7_540.jpg",
+                "http://66.media.tumblr.com/c36f909556e9f94abbe98e53c53cca08/tumblr_ode6kq3kQy1v9kmzso8_1280.jpg",
+                "http://67.media.tumblr.com/3bb8fe90a1aac9d42df9d559be8aa686/tumblr_ode6kq3kQy1v9kmzso9_540.jpg",
+                "http://66.media.tumblr.com/da3f0c2257c607979f65bd25f0b290a6/tumblr_ode6kq3kQy1v9kmzso10_1280.jpg"
+            ],
+            "texte": "Indice : D&rsquo;un arbre, je suis le prot&eacute;g&eacute;. Ma&icirc;tre centenaire aux abords d&rsquo;une for&ecirc;t. Je regarde mon reflet troubl&eacute; par le vent. Entre la plume et le passant, les feuilles tombent sur le champignon qui borde mon lit. Au creux de mon abri, je parle aux oreilles des f&eacute;es&hellip;<br />&Agrave; l&rsquo;abri des regards, &agrave; la crois&eacute;e des chemins, je tourne le dos au monde. Qui saura me trouver et continuer mon voyage ?<br />&ldquo;La Petite Porte&rdquo; commence son voyage le <b>09/09/2016</b>&hellip;. Quelque part &agrave; <b>Lambersart</b> &hellip;<br />(Suivez les voyages de &ldquo; La Petite Porte &rdquo; sur <a href='https://www.facebook.com/lesvoyagesdelapetiteporte/' target='_blank'>Facebook</a>)"
+        }
+    ],
+    "08/2016": [
+        {
+            "titre": "Surprise",
+            "image": "http://66.media.tumblr.com/ef732da5f6572b0a4c63e4120a4e331e/tumblr_ocofvzmZZr1v9kmzso1_1280.jpg",
+            "texte": "Hooooo.. mais&hellip; qu&#039;est-ce que c&#039;est ? &hellip; ^^"
+        }
+    ],
+    "07/2016": [
+        {
+            "titre": "Avis sur La Petite Porte",
+            "image": "http://66.media.tumblr.com/6d3bf8af5b7acddd2409977358d77ba7/tumblr_ob8f5lG5j31v9kmzso1_1280.jpg",
+            "texte": "Un grand merci &agrave; Perchino pour son <a href='https://www.amazon.fr/Petite-Porte-E-Ferrets-ebook/dp/B01C4G85C2/ref=sr_1_1?s=books&ie=UTF8&qid=1470054080&sr=1-1&keywords=La+Petite+Porte+Ferrets' target='_blank'>commentaire</a> sur &ldquo;La Petite Porte&rdquo; ! &lt;3 :)"
+        },
+        {
+            "titre": "S&eacute;ance de d&eacute;dicaces de Cysoing",
+            "image": [
+                "http://66.media.tumblr.com/d6c3731e8f57383a279fc722e5bc660c/tumblr_oakgtyiDWv1v9kmzso1_1280.jpg",
+                "http://67.media.tumblr.com/1d3544ee984133bf3632c5a826f674fb/tumblr_oakgtyiDWv1v9kmzso2_1280.jpg",
+                "http://67.media.tumblr.com/636bcbfb5839f612ea6e3bf01639deae/tumblr_oakgtyiDWv1v9kmzso3_400.jpg",
+                "http://67.media.tumblr.com/427ec7b953a16e07014d30ce199bc321/tumblr_oakgtyiDWv1v9kmzso4_1280.jpg",
+                "http://65.media.tumblr.com/ef64ee1b00e4d8af6c6e17432cdf6952/tumblr_oakgtyiDWv1v9kmzso5_400.jpg",
+                "http://66.media.tumblr.com/b92dea3b24d268a7f1c882039ae8269a/tumblr_oakgo2qAXI1v9kmzso1_1280.jpg",
+                "http://66.media.tumblr.com/840e97e9d3f9db47a63aae9d0136b753/tumblr_oakgo2qAXI1v9kmzso2_1280.jpg",
+                "http://65.media.tumblr.com/856b1755a74766ef4ac1a1b1d8093e2b/tumblr_oakgo2qAXI1v9kmzso3_1280.jpg",
+                "http://67.media.tumblr.com/1def3ca55134fc1c995ab2b6916a614c/tumblr_oakgo2qAXI1v9kmzso4_1280.jpg",
+                "http://66.media.tumblr.com/16c5c19d02e7c5b9475becb040289fef/tumblr_oakgo2qAXI1v9kmzso5_1280.jpg",
+                "http://67.media.tumblr.com/47c7919c3b421a3017693546663da48b/tumblr_oakgo2qAXI1v9kmzso6_1280.jpg",
+                "http://67.media.tumblr.com/09a0386d0b049436e31dff486fe613be/tumblr_oakgo2qAXI1v9kmzso7_1280.jpg",
+                "http://67.media.tumblr.com/d252fd5b3e81ace36b1656213015334e/tumblr_oakgo2qAXI1v9kmzso8_1280.jpg",
+                "http://67.media.tumblr.com/e24a0cf07c65bdd3deb55fd3a159583b/tumblr_oakgo2qAXI1v9kmzso9_1280.jpg",
+                "http://67.media.tumblr.com/a1a8a43e03fb0e3109c60f91c45630e7/tumblr_oakgo2qAXI1v9kmzso10_1280.jpg"
+            ],
+            "texte": "Petit retour sur notre rencontre du <b>14 juillet 2016 &agrave; Cysoing</b>.<br/>C&#039;&eacute;tait une tr&egrave;s belle matin&eacute;e en votre compagnie et de tr&egrave;s belles rencontres ! &lt;3<br/>Je suis heureuse de pouvoir garder des photos souvenir de quelques-uns d&#039;entres vous !! &lt;3<br />Un grand merci &agrave; toutes les personnes qui sont venues me voir ce jour-l&agrave;. J&#039;en garde un magnifique souvenir et des &eacute;toiles plein les yeux ! &lt;3<br />Je vous souhaite une tr&egrave;s bonne lecture !! "
+        },
+        {
+            "titre": "Retour de d&eacute;dicaces",
+            "image": "",
+            "texte": "De retour de d&eacute;dicaces, avec des r&ecirc;ves et des &eacute;toiles pleins les yeux &lt;3 (photos &agrave; venir&hellip;) Merci &agrave; tous !!  &lt;3"
+        }
+    ],
+    "06/2016": [
+        {
+            "titre": "D&eacute;dicaces",
+            "image": "http://65.media.tumblr.com/ddb51bb720d9fbf1f1e10938a5da0df7/tumblr_o9zlldiwh61v9kmzso1_1280.jpg",
+            "texte": "Un autre petit exemplaire de &laquo; La Petite Porte &raquo; est parti rejoindre sa nouvelle biblioth&egrave;que hier ! :)"
+        },
+        {
+            "titre": "Annonce de d&eacute;dicaces",
+            "image": "http://66.media.tumblr.com/10bf2a82ca58a77f9fb718e3c2d913e7/tumblr_o9u1hvxLpr1v9kmzso1_r1_500.jpg",
+            "texte": "Bonjour petit peuple du royaume de Faerwynn ! <br />Nous pourrons nous rencontrer &agrave; l&#039;occasion de la grande braderie de <b>Cysoing Jeudi 14 Juillet 2016 de 6h &agrave; 13h</b> ! (Il va falloir se lever avec les f&eacute;es :p). <br />Ce sera l&#039;occasion de d&eacute;dicacer votre exemplaire de &ldquo;La Petite Porte&rdquo; o&ugrave; de vous en procurer un sur place :) <br />Je vous attendrais &agrave; l&#039;emplacement n&deg;20, dans le centre de Cysoing. :)<br />On se retrouve l&agrave;-bas ! &lt;3"
+        },
+        {
+            "titre": "Extrait",
+            "image": "http://66.media.tumblr.com/9d29f800843250a96a8c1baca650916d/tumblr_o9ktgto6hk1v9kmzso1_1280.jpg",
+            "texte": "Mon prochain roman avance :) Je vous promet de belles surprises &agrave; venir &lt;3"
+        },
+        {
+            "titre": "S&eacute;ance de d&eacute;dicaces de Lambersart",
+            "image": [
+                "http://66.media.tumblr.com/b90d64faeda33d35da99181537cf9f02/tumblr_o9favwCDv61v9kmzso1_1280.jpg",
+                "http://66.media.tumblr.com/66c2da3c931f7c21172a17da23c63bd2/tumblr_o9favwCDv61v9kmzso2_1280.jpg",
+                "http://67.media.tumblr.com/ca9a5f83457d5e963592f07ea64ca4ca/tumblr_o9favwCDv61v9kmzso3_1280.jpg",
+                "http://67.media.tumblr.com/95d0921d7446f0f487eca2d751d092da/tumblr_o9favwCDv61v9kmzso4_1280.jpg",
+                "http://67.media.tumblr.com/bb06f0f01fc9d5af3b972ec105188fbe/tumblr_o9favwCDv61v9kmzso5_400.jpg"
+            ],
+            "texte": "Un grand merci &agrave; toutes les personnes qui sont venues me voir ce jour-l&agrave; ! &lt;3<br/>J&rsquo;ai pass&eacute; une merveilleuse matin&eacute;e en votre compagnie ! <br/>De belles rencontres, de beaux souvenirs, c&rsquo;&eacute;tait un r&eacute;el plaisir de vous d&eacute;dicacer vos exemplaires &lt;3<br/>Je vous souhaite &agrave; tous une bonne lecture ! &lt;3"
+        },
+        {
+            "titre": "Affiche de d&eacute;dicaces",
+            "image": "http://67.media.tumblr.com/a5787712da2dcd3ac21de7bbe7e3b288/tumblr_o9c862YCdC1v9kmzso1_400.jpg",
+            "texte": "L&rsquo;affiche de ma s&eacute;ance de d&eacute;dicace de demain :)"
+        },
+        {
+            "titre": "Annonce de d&eacute;dicaces",
+            "image": "http://65.media.tumblr.com/7c6c37fc2763ba0aa8d190cf2e02c2df/tumblr_o9c82mY6ab1v9kmzso1_1280.jpg",
+            "texte": "Petite pr&eacute;paration pour la s&eacute;ance de d&eacute;dicace de demain :) ^^"
+        },
+        {
+            "titre": "Retour sur La Petite Porte",
+            "image": "",
+            "texte": "Un grand merci &agrave; mes lecteurs pour leurs retours tr&egrave;s tr&egrave;s positifs suite &agrave; la lecture de La Petite Porte &lt;3 &ccedil;a me touche vraiment le c&oelig;ur! Et &ccedil;a motive pour l&#039;&eacute;criture de mon prochain roman!!! &lt;3 &lt;3  &lt;3"
+        },
+        {
+            "titre": "Annonce de d&eacute;dicaces",
+            "image": "http://66.media.tumblr.com/c7bbe0b2fcc9b8a5eb1c3d133f27e378/tumblr_o92c0ivauU1v9kmzso1_500.jpg",
+            "texte": "Hello petit peuple du royaume de Faerwynn et d&rsquo;ailleurs ! <br/>Je serais ravi de vous rencontrer et de d&eacute;dicacer votre exemplaire de La Petite Porte &agrave; l&rsquo;occasion de <b>la grande braderie de Lambersart le DIMANCHE 26 JUIN, de 7h &agrave; 14h</b> !! :)<br/>Je serais plac&eacute; au <b>394 avenue de Dunkerque, 59130 Lambersart</b> et si vous n&rsquo;avez pas encore votre livre, vous aurez la possibilit&eacute; de l&rsquo;acheter sur place ! ^^ <br/>On se retrouve l&agrave;-bas ! ;) &lt;3 "
+        },
+        {
+            "titre": "D&eacute;dicaces",
+            "image": "http://66.media.tumblr.com/5461c6b4c1f4d21d57b03795d8d50dbd/tumblr_o8v4t7qQd31v9kmzso1_500.jpg",
+            "texte": "Un nouvel heureux propri&eacute;taire d&#039;un exemplaire d&eacute;dicac&eacute; de La Petite Porte ! Bonne lecture !! ^^"
+        },
+        {
+            "titre": "D&eacute;dicaces",
+            "image": "http://66.media.tumblr.com/bfcd68f5876491f4b84f68d9399ab015/tumblr_o8perekDBR1v9kmzso1_1280.jpg",
+            "texte": "C&rsquo;est l&rsquo;histoire de 3 petits exemplaires d&eacute;dicac&eacute;s de La Petite Porte partis rejoindre leurs 3 nouvelles biblioth&egrave;ques de leurs 3 nouveaux propri&eacute;taires ! ^^ Bonne lecture &agrave; vous !! &lt;3 "
+        },
+        {
+            "titre": "D&eacute;dicaces",
+            "image": "http://67.media.tumblr.com/b8a98ab7775cb556bdcc3e6ba9b17af9/tumblr_o8gcn26awa1v9kmzso1_1280.jpg",
+            "texte": "Bon voyage petit exemplaire d&eacute;dicac&eacute; de La Petite Porte ! Et bonne lecture &agrave; son nouveau propri&eacute;taire ! ^^"
+        },
+        {
+            "titre": "Information",
+            "image": "",
+            "texte": "Bonjour petit peuple du royaume de Faerwynn et d&#039;ailleurs :) Aujourd&#039;hui, de 11h &agrave; 14h, le site Lulu.com sera hors ligne pour divers changement (notamment des ajouts de modes de paiement). Il sera donc impossible de commander La Petite Porte durant ces quelques heures ^^ Belle journ&eacute;e &agrave; tous &lt;3 "
+        }
+    ],
+    "05/2016": [
+        {
+            "titre": "Extrait",
+            "image": "http://65.media.tumblr.com/be2d45d8c1b20ac1ab61421940f5973f/tumblr_o8csauHkOW1v9kmzso1_1280.jpg",
+            "texte": "Pour patienter un peu&hellip; ^^ "
+        },
+        {
+            "titre": "D&eacute;dicaces",
+            "image": "http://66.media.tumblr.com/a8a43f03c4d1347dd0be3aa22dfce53b/tumblr_o8cdz7NfN81v9kmzso1_1280.jpg",
+            "texte": "Hop hop hop ! Deux nouveaux b&eacute;b&eacute;s d&eacute;dicac&eacute;s partis rejoindre leurs nouvelles biblioth&egrave;ques ! ^^"
+        },
+        {
+            "titre": "Annonce de D&eacute;dicaces",
+            "image": "http://66.media.tumblr.com/eeb24ad017ff25d330b49c4b96058587/tumblr_o87416En2g1v9kmzso1_500.jpg",
+            "texte": "Bonjour &agrave; tous !<br />Je vous apporte une bonne nouvelle ! Je serais pr&eacute;sente au <b>Salon du livre de Somain les 3 et 4 d&eacute;cembre de 10h &agrave; 18h ! (Centre Culturel Albert Camus, Place Victor Brachelet)</b>.<br/>Ce sera l&rsquo;occasion de me rencontrer, mais aussi d&#039;acheter La Petite Porte (si vous ne commandez pas sur Internet ^^) et de le faire d&eacute;dicacer ! ^^<br />N&rsquo;oubliez pas ! On se retrouve l&agrave;-bas ! ;) J&#039;ai h&acirc;te ! &lt;3"
+        },
+        {
+            "titre": "D&eacute;dicaces",
+            "image": "http://66.media.tumblr.com/8c60b77d40a7a9e727c3ea66ba3e7536/tumblr_o81seilvtm1v9kmzso1_r1_500.jpg",
+            "texte": "Hop hop hop, la d&eacute;dicace de l&rsquo;exemplaire de La Petite Porte, gagn&eacute; par Amandine lors du concours facebook ! ^^ Ce fut un tr&egrave;s beau concours !!"
+        },
+        {
+            "titre": "D&eacute;dicaces",
+            "image": "http://67.media.tumblr.com/a1ad7ad03fc505100e0efde057bd0b04/tumblr_o81s8qhYwv1v9kmzso1_r1_400.jpg",
+            "texte": "Et voil&agrave; un petit exemplaire d&eacute;dicac&eacute; de La Petite Porte partie rejoindre sa nouvelle maison aujourd&rsquo;hui !! &lt;3 Encore bravo &agrave; notre gagnante du concours facebook ! :)"
+        },
+        {
+            "titre": "F&ecirc;te des m&egrave;res",
+            "image": "http://66.media.tumblr.com/ed4f3713933051835b41fc23db7e47b3/tumblr_o7vuqpKhWr1v9kmzso1_1280.jpg",
+            "texte": "Bonjour petit peuple du royaume de Faerwynn et d&rsquo;ailleurs !<br />Grande nouvelle !! &Agrave; l&rsquo;occasion de la f&ecirc;te des M&egrave;res, La Petite Porte est &agrave; -30 % tout le week-end ! <br/>L&rsquo;occasion id&eacute;ale de pr&eacute;senter Ma&euml;lys &agrave; votre maman ! <a href='http://www.lulu.com/shop/ae-ferrets/la-petite-porte/paperback/product-22651001.html' target='_blank'>Profitez-en</a> ! ;)"
+        },
+        {
+            "titre": "Extrait - La Petite Porte de A.E Ferrets",
+            "image": "http://66.media.tumblr.com/3008f8accd0521897ebe0331ba3df784/tumblr_o7tsh4YZ1Y1v9kmzso1_1280.png",
+            "texte": "<b>Chapitre I &ndash; Une soir&eacute;e ordinaire</b><br/><br/>Je m&rsquo;appelle Ma&euml;lys et voici mon histoire&hellip;<br /><br />Je vis dans un petit appartement assez ordinaire que j&rsquo;ai acquis il y a un peu moins d&rsquo;un mois, dans un quartier plut&ocirc;t calme. Il y a tout ce qu&rsquo;il faut &agrave; proximit&eacute; : grande surface, resto, boulangerie&hellip; C&rsquo;est l&rsquo;id&eacute;al pour quelqu&rsquo;un comme moi qui n&rsquo;aime pas vraiment conduire en ville ! <br />Pour les meubles, je les ai achet&eacute;s &agrave; bon prix dans un grand magasin d&rsquo;ameublement. Vous savez, ces magasins connus pour leur c&eacute;l&egrave;bre ressemblance avec les bons vieux jouets des &oelig;ufs en chocolat de notre enfance. Ils ne sont pas tr&egrave;s solides, mais bien pratiques ! <br />Quant &agrave; la d&eacute;co, je n&rsquo;ai pas fait beaucoup d&rsquo;effort : je me contente de quelques cadres photo que j&rsquo;ai trouv&eacute;s en m&ecirc;me temps que le canap&eacute; et accroch&eacute;s aux murs. Elles repr&eacute;sentent des villes ou des sc&egrave;nes de vie en noir et blanc, photographi&eacute;es par &laquo; on-ne-sait-qui &raquo;, artiste de l&rsquo;ombre que tout le monde a dans son salon.<br /><br />Je n&rsquo;ai malheureusement pas le loisir de me pr&eacute;lasser de longues heures dans mon appartement, car mon travail occupe le plus clair de mon temps. Je suis serveur dans un restaurant assez cot&eacute;, ce qui me fait rentrer &agrave; des heures pas possibles. <br />Souvent, apr&egrave;s une journ&eacute;e bien remplie, je m&rsquo;effondre sur le sofa quelques minutes, le temps de retrouver la sensation de mes jambes qui sont rest&eacute;es bien trop longtemps debout &agrave; courir dans tous les sens. Ha&hellip; j&rsquo;aime avoir l&rsquo;impression de m&rsquo;enfoncer dans un nuage quand je glisse mes pieds, engourdis par l&rsquo;effort, dans mes chaussons moelleux. Bon, l&rsquo;odeur quant &agrave; elle n&rsquo;est pas tr&egrave;s agr&eacute;able, je vous l&rsquo;accorde ! <br />Bref, ma vie se r&eacute;sume un peu &agrave; &ccedil;a : boulot, dodo. Je ne me consacre que le week-end pour sortir avec mes amis dans des clubs branch&eacute;s, o&ugrave; j&rsquo;essaie de me d&eacute;tendre et de ne pas penser au travail. [&hellip;]<br /><br />Livre disponible au format poche sur <a href='http://www.lulu.com/shop/ae-ferrets/la-petite-porte/paperback/product-22651001.html' target='_blank'><b>Lulu.com</b></a>"
+        },
+        {
+            "titre": "Extrait",
+            "image": "http://65.media.tumblr.com/e50b997b01404ebd28b5939f31540e12/tumblr_o7sb2rGWQX1v9kmzso1_1280.jpg",
+            "texte": "Un petit aper&ccedil;u de mon prochain roman ? ;)"
+        },
+        {
+            "titre": "Ebook",
+            "image": "http://67.media.tumblr.com/1882acd2ae9c492567da1c82851862d9/tumblr_o7ficiQYIX1v9kmzso1_400.jpg",
+            "texte": "Il y a le livre, mais n&#039;oubliez pas l&#039;ebook ! ^^ Disponible sur Kobo, Fnac et Amazon, 0,99&euro; ! :)"
+        },
+        {
+            "titre": "Gagnant du concours",
+            "image": "http://67.media.tumblr.com/befc4a92ee80ce937bc5e299a0c45414/tumblr_o7fi28BonK1v9kmzso1_1280.png",
+            "texte": "Une petite calligraphie tout sp&eacute;cialement faite par mes soins (&agrave; la main, num&eacute;riquement) annon&ccedil;ant la grande gagnante du concours !<br /><br />F&eacute;licitation &agrave; AMANDINE BOULANT qui remporte un exemplaire d&eacute;dicac&eacute; de La Petite Porte !!!<br /><br />Petite info: Sans nouvelles de notre heureuse gagnante d&#039;ici 1 semaine (le 24 mai inclut), une autre gagnante sera tir&eacute;e au sort :)<br /><br />Encore un &eacute;norme merci &agrave; vous tous pour vos participations et surtout pour vos messages qui m&#039;ont fait &eacute;norm&eacute;ment plaisir !!  &lt;3 &lt;3"
+        },
+        {
+            "titre": "**CONCOURS TERMIN&Eacute; !**",
+            "image": "http://67.media.tumblr.com/fe0cad0ca086f0c4413849775b070b03/tumblr_o79gj5d4Zs1v9kmzso1_1280.jpg",
+            "texte": "Un grand merci aux 88 participants ! &lt;3 Je vous annoncerai le gagnant tr&egrave;s bient&ocirc;t ! Ouvrez l&rsquo;&oelig;il ;) Bonne chance &agrave; tous ! &lt;3"
+        },
+        {
+            "titre": "Citation",
+            "image": "",
+            "texte": "&laquo; Au-del&agrave;, c&rsquo;est du ressort des dragons ! &raquo; a affirm&eacute; Marcelin ;)"
+        },
+        {
+            "titre": "3 Tomes ? Non! 4 ! ^^",
+            "image": "",
+            "texte": "Mon prochain roman sera peut-&ecirc;tre en 4 Tomes au lieu de 3 finalement :p"
+        }
+    ],
+    "04/2016": [
+        {
+            "titre": "Akedo",
+            "image": "http://66.media.tumblr.com/58a83eaa2ff10ebabfa62aec7e9dceae/tumblr_o6sxn8hIgj1v9kmzso1_400.jpg",
+            "texte": "D&eacute;dicace de La Petite Porte pour Akedo"
+        },
+        {
+            "titre": "Akedo",
+            "image": [
+                "http://66.media.tumblr.com/5727a868ad6d1d09f7c72cde7a40a3b8/tumblr_o6sxakdLPt1v9kmzso2_r1_400.jpg",
+                "http://66.media.tumblr.com/0afa3917ad6f41416dfe4ae8a8c24765/tumblr_o6sxakdLPt1v9kmzso3_r1_400.jpg"
+            ],
+            "texte": "Mon b&eacute;b&eacute; dort chez Akedo ! Un peu de lecture en attendant votre caf&eacute; ? Une petite pause entre deux parties d&rsquo;arcade ? Ou un peu d&rsquo;&eacute;vasion apr&egrave;s une partie de Magic ?"
+        },
+        {
+            "titre": "Concours",
+            "image": "http://67.media.tumblr.com/193bb56bd9d2b3303ef257ff8773030a/tumblr_o6ns5ijg241v9kmzso1_1280.jpg",
+            "texte": "Actuellement sur Facebook ! Tentez de gagner un exemplaire d&eacute;dicac&eacute; de La Petite Porte ! On se retrouve <a href='https://www.facebook.com/AE-Ferrets-427641997438303/' target='_blank'>l&agrave;-bas</a> ? ;)"
+        },
+        {
+            "titre": "Fiches de Lady Fae",
+            "image": "http://67.media.tumblr.com/8eb2f783b69430b1a130dc61575a6053/tumblr_o6lqy7OrRc1v9kmzso1_400.jpg",
+            "texte": "Saviez-vous que les chuchoteuses sont tr&egrave;s organis&eacute;es ? Elles classent, r&eacute;pertorient, chuchotent, rangent beaucoup de choses et ainsi, tout le monde s&rsquo;y retrouve ! ^^ Je vous pr&eacute;sente donc ma jolie fiche faite par la chuchoteuse qui m&rsquo;a pos&eacute; des questions : Lady Fae.<br />Si vous &ecirc;tes un peu curieux, d&eacute;couvrez ma fiche sur <a href='http://leslecturesdeladyfae.weebly.com/deacutecouverte-dauteur/a-e-ferrets' target='_blank'>sa jolie chrisalymphe.</a><br /><br />Merci &agrave; <b>Lady Fae (Les lectures de Lady Fae)</b> &lt;3"
+        },
+        {
+            "titre": "Interview de Lady Fae",
+            "image": "http://67.media.tumblr.com/11916fcfd2bad34c12b8116eac0e38d2/tumblr_o6lqvg7scl1v9kmzso1_250.jpg",
+            "texte": "Bonjour habitants du royaume de Faerwynn et d&#039;ailleurs !<br />Le soleil brille de mille feux sur la cit&eacute; d&#039;Antibulle et on peut y voir les jolies couleurs de nos bulles teinter le magnifique ciel bleu.<br />C&#039;est &agrave; ce moment tr&egrave;s pr&eacute;cis, alors que je m&#039;&eacute;merveillais devant ce beau spectacle, que j&#039;ai vu venir vers moi une petite chuchoteuse dont l&#039;air m&#039;&eacute;tait familier. Elle s&#039;est pos&eacute;e sur la feuille qui me servait &agrave; &eacute;crire et m&#039;a pos&eacute; timidement quelques questions. Ne vous ai-je pas dit que les chuchoteuses &eacute;taient parfois curieuses ?<br />Je vous laisse d&eacute;couvrir ici mes r&eacute;ponses &agrave; ses questions. C&#039;est aussi l&#039;occasion id&eacute;ale pour voir les jolis travaux de d&eacute;coration qu&#039;elle a faits r&eacute;cemment dans <a href='http://leslecturesdeladyfae.weebly.com/tout-savoir-sur/a-e-ferrets' target='_blank'>sa chrisalymphe !</a><br /><br />Un tr&egrave;s grand merci &agrave; <b>Lady Fae (Les lectures de Lady Fae)</b> pour ses questions &lt;3 C&#039;&eacute;tait un r&eacute;el plaisir ! &lt;3"
+        },
+        {
+            "titre": "Chuchotement de Viou et ses dr&ocirc;les de livres",
+            "image": "http://65.media.tumblr.com/1e908151f1c948a828acd04daacb6453/tumblr_o6jl1vj9Mh1v9kmzso1_400.jpg",
+            "texte": "Vendredi fut une belle journ&eacute;e, m&ecirc;me si le soleil manquait sur la cit&eacute; d&rsquo;Antibulle. Alors que je me promenais, j&rsquo;ai crois&eacute; une petite chuchoteuse aussi discr&egrave;te et petite qu&rsquo;une sourit ! Elle m&rsquo;a chuchot&eacute; quelques mots &agrave; propos de La Petite Porte. :) D&eacute;couvrez vite son chuchotement en visitant sa jolie chrisalymphe intitul&eacute;e &ldquo; <a href='http://viou03etsesdrolesdelivres.blogspot.fr/2016/04/la-petite-porte-ae-ferrets.html' target='_blank'><b>Viou et ses dr&ocirc;les de livres</b></a> &rdquo;.  <br /><br />Un &eacute;norme merci &agrave; <b>Viou et ses dr&ocirc;les de livres</b> pour le temps qu&rsquo;elle a accord&eacute; &agrave; la lecture de La Petite Porte &lt;3 <br /><br />Et encore un &eacute;norme merci &agrave; toutes ces belles chuchoteuses qui ont lu mon livre &lt;3 &lt;3"
+        },
+        {
+            "titre": "Chuchotement de La M&eacute;diath&egrave;que de C&eacute;lim&egrave;ne",
+            "image": "http://67.media.tumblr.com/1e908151f1c948a828acd04daacb6453/tumblr_o6jj2oC1PV1v9kmzso1_400.jpg",
+            "texte": "Toc toc toc&hellip; vous &ecirc;tes l&agrave; ? Ha ! Tant mieux ! Car j&#039;ai un petit chuchotement &agrave; partager avec vous ! :)  Celui-ci a &eacute;t&eacute; chuchot&eacute; vendredi par une petite chuchoteuse pr&eacute;nomm&eacute;e C&eacute;lim&egrave;ne.<br />Visitez vite sa chrisalymphe intitul&eacute;e &ldquo; <a href='http://mediatheque-celimene.fr/petite-porte-de-a-e-ferrets/' target='_blank'><b>La M&eacute;diath&egrave;que de C&eacute;lim&egrave;ne</b></a> &rdquo; et d&eacute;couvrez son chuchotement !<br /><br />Un &eacute;norme merci &agrave; C&eacute;lim&egrave;ne pour le temps qu&rsquo;elle a accord&eacute; &agrave; la lecture de La Petite Porte &lt;3 "
+        },
+        {
+            "titre": "Annonce de D&eacute;dicace !",
+            "image": "",
+            "texte": "Je serai en d&eacute;dicace le <b>samedi 17 septembre 2016 aux Puces de Saint-Ouen de 9h &agrave; 11h</b> ! :)<br/>Notez-le bien dans vos agenda ! On se retrouve <a href='http://fichit.com/a-e-ferrets.f-92812' target='_blank'>l&agrave;-bas</a> ;) &lt;3"
+        },
+        {
+            "titre": "Chuchotement de Notre carnet de lecture",
+            "image": "http://67.media.tumblr.com/1e908151f1c948a828acd04daacb6453/tumblr_o6eh1q8sdc1v9kmzso1_400.jpg",
+            "texte": "Alors que le vent souffle sa fra&icirc;cheur sur la cit&eacute; d&rsquo;Antibulle, une petite chuchoteuse est venue jusqu&rsquo;&agrave; moi pour chuchoter quelques mots &agrave; propos de La Petite Porte, bravant courageusement les bourrasques et les pluies d&rsquo;&eacute;toiles gel&eacute;es.<br /><br />Je vous invite &agrave; d&eacute;couvrir son chuchotement en visitant sa jolie Chrisalymphe intitul&eacute;e &laquo; <a href='http://notrecarnetlecture.blogspot.fr/2016/04/la-petite-porte-ae-ferrets.html?spref=fb' target='_blank'><b>Notre carnet de lecture</b></a> &raquo;.<br /><br />Un &eacute;norme merci &agrave; Notre carnet de Lecture pour le temps qu&rsquo;elle a accord&eacute; &agrave; la lecture de La Petite Porte &lt;3"
+        },
+        {
+            "titre": "Chuchotement de Mes r&ecirc;ves &eacute;veill&eacute;s",
+            "image": "http://67.media.tumblr.com/1e908151f1c948a828acd04daacb6453/tumblr_o6eh1q8sdc1v9kmzso1_400.jpg",
+            "texte": "Bonjour petit peuple en bulle ! ^^<br />Ce soir, j&#039;ai crois&eacute; le chemin d&#039;une magnifique chuchoteuse dont les couleurs &eacute;taient aussi flamboyantes que celles d&#039;une renarde ! Elle m&#039;a chuchot&eacute; quelques mots sur La Petite Porte, avant de vite repartir vers ses jolies aventures.<br />Je vous laisse d&eacute;couvrir son chuchotement ! N&#039;oubliez pas de visiter sa Chrisalynphes intitul&eacute;e &ldquo; <a href='http://mes-reves-eveilles.blogspot.fr/2016/04/a.html' target='_blank'><b>Mes r&ecirc;ves &eacute;veill&eacute;s</b></a> &rdquo;.<br /><br />Un &eacute;norme merci &agrave; <a href='https://www.facebook.com/profile.php?id=100009890316420' target='_blank'>Merry Daurey</a> pour le temps qu&#039;elle a accord&eacute; &agrave; la lecture de La Petite Porte &lt;3<br /><br />Qu&#039;il y en a de belles chuchoteuses autour de ma bulle &lt;3 Merci &agrave; vous toutes &lt;3"
+        },
+        {
+            "titre": "La Petite Porte",
+            "image": "http://66.media.tumblr.com/8eb2f783b69430b1a130dc61575a6053/tumblr_o670uieB0K1v9kmzso1_400.jpg",
+            "texte": "Bonjour &agrave; vous habitants du royaume de Faerwynn et d&#039;ailleurs !<br /><br />&Ccedil;a y est ! La Petite Porte est maintenant disponible en livre poche et en ebook Kobo et Kindle ! De quoi satisfaire vos liseuses et votre biblioth&egrave;que !<br />Retrouvez l&#039;aventure de Ma&euml;lys d&egrave;s maintenant sur <a href='http://www.lulu.com/shop/ae-ferrets/la-petite-porte/paperback/product-22651001.html' target='_blank'><b>Lulu.com</b></a>(7&euro;80 HT, soit 12&euro;82 TTC Frais de port inclus).<br /><br />Mais aussi en ebook sur <a href='https://store.kobobooks.com/fr-fr/ebook/la-petite-porte' target='_blank'><b>Kobo</b></a>(0.99&euro;).<br /><br />Et <a href='http://www.amazon.fr/La-Petite-Porte-A-E-Ferrets-ebook/dp/B01C4G85C2' target='_blank'><b>Amazon Kindle</b></a> (0.99&euro;).<br /><br />Un petit r&eacute;sum&eacute; :<br />Je m&rsquo;appelle Ma&euml;lys et&hellip; Je pense que vous ne me croiriez pas si je vous racontais ce que j&rsquo;ai v&eacute;cu ! &Eacute;tait-ce une bonne chose ? Je ne sais pas&hellip; Aurais-je d&ucirc; fermer les yeux ? Ne rien tenter ? Ou aller jusqu&rsquo;au bout ? Et pourtant&hellip; Comme moi, vous auriez tout fait, tout. Laissez-moi vous conter mon histoire. Vous &ecirc;tes pr&ecirc;t ?<br /><br />&Agrave; tr&egrave;s bient&ocirc;t dans mon univers ! &lt;3<br /><br /><a href='https://www.facebook.com/AE-Ferrets-427641997438303/' target='_blank'>A.E Ferrets</a>"
+        },
+        {
+            "titre": "Premi&egrave;re livraison",
+            "image": "http://67.media.tumblr.com/76c256b1dd27af38c6e3edb8099371ee/tumblr_o614r57a331v9kmzso1_1280.jpg",
+            "texte": "Elle fixa le carton d&rsquo;emballage avec de grands yeux rond, partag&eacute;e par un million de sentiments la traversant tous en m&ecirc;me temps. La peur, l&rsquo;angoisse, la joie, la curiosit&eacute;, l&rsquo;excitation&hellip; D&eacute;couvrir le contenu &eacute;tait pour elle un grand pas en avant, le r&eacute;sultat de nombreux efforts et l&rsquo;accomplissement d&rsquo;un r&ecirc;ve de toute une vie.<br /><br />Elle avait &eacute;touff&eacute; de nombreux cris de joie en le d&eacute;couvrant. Cette fois, c&rsquo;&eacute;tait pour de vrai, il &eacute;tait l&agrave;, juste l&agrave;, soigneusement pos&eacute; &agrave; ses c&ocirc;t&eacute;s. Une simple bo&icirc;te soudainement transform&eacute;e en un objet d&rsquo;une importance vitale. M&ecirc;me son messager ne le soup&ccedil;onnait pas.<br /><br />Br&ucirc;lant d&rsquo;impatience, elle se demandait quoi faire : l&rsquo;ouvrir ? Attendre ? Sera-t-elle d&eacute;&ccedil;ue ? Sera-t-elle &eacute;merveill&eacute;e ? &Agrave; suivre&hellip;"
+        },
+        {
+            "titre": "Chuchotement de Le Monde enchant&eacute; de mes lectures",
+            "image": "http://67.media.tumblr.com/1e908151f1c948a828acd04daacb6453/tumblr_o5zkugj2eo1v9kmzso1_400.jpg",
+            "texte": "Chuuutt ! &hellip; &Eacute;coutez ! &hellip; Vous l&#039;entendez ?? Tendez bien l&#039;oreille&hellip; Alors ? C&#039;est une petite chuchoteuse qui chuchote &agrave; propos de La Petite Porte. Ne faites plus de bruit et approchez-vous doucement de sa Chrisal&eacute; nymph&eacute;a intitul&eacute; &ldquo; <a href='http://chroniqueslivres.canalblog.com/archives/2016/04/21/33692769.html' target='_blank'><b>Le Monde enchant&eacute; de mes lectures</b></a> &rdquo; , ainsi, vous entendrez mieux son chuchotement.<br /><br />Un &eacute;norme merci &agrave; cette petite chuchoteuse nomm&eacute;e Alouqua pour le temps qu&#039;elle a accord&eacute; &agrave; la lecture de La Petite Porte &lt;3<br /><br />Suivez tout les chuchotements d&rsquo;Alouqua sur : <br /><a href='https://www.facebook.com/monde.enchante.de.lecture/?fref=ts' target='_blank'>https://www.facebook.com/monde.enchante.de.lecture/?fref=ts</a><br /><br />Et sur :<br /><a href='https://twitter.com/AlouquaLecture' target='_blank'>https://twitter.com/AlouquaLecture</a>"
+        },
+        {
+            "titre": "Chuchotement de Les Lectures de Lady Fae",
+            "image": "http://67.media.tumblr.com/1e908151f1c948a828acd04daacb6453/tumblr_o5zkugj2eo1v9kmzso1_400.jpg",
+            "texte": "Bonjour tr&egrave;s chers habitants du royaume de Faerwynn et d&#039;ailleurs !<br /><br />Le vent a souffl&eacute; cette nuit et a port&eacute; jusqu&#039;&agrave; moi l&#039;agr&eacute;able chuchotement d&#039;une petite chuchoteuse appel&eacute; Lady Fae.<br /><br />Je vous laisse d&eacute;couvrir ce qu&#039;elle a chuchot&eacute; &agrave; propos de La Petite Porte et vous invite &agrave; visiter sa jolie Chrisalynphe intitul&eacute;e &ldquo; <a href='http://leslecturesdeladyfae.weebly.com/livres-fantastiques/la-petite-porte' target='_blank'><b>Les Lectures de Lady Fae</b></a> &rdquo;.<br /><br />Un &eacute;norme merci &agrave; elle pour le temps qu&#039;elle a accord&eacute; &agrave; la lecture de La Petite Porte &lt;3<br /><br />Suivez tout les chuchotements de Lady Fae sur :<br /><a href='https://www.facebook.com/leslecturesdeladyfae/?fref=nf' target='_blank'>https://www.facebook.com/leslecturesdeladyfae/?fref=nf</a>"
+        },
+        {
+            "titre": "Premi&egrave;re &eacute;preuve",
+            "image": "http://66.media.tumblr.com/3008f8accd0521897ebe0331ba3df784/tumblr_o5rsen0plg1v9kmzso1_1280.png",
+            "texte": "Premi&egrave;re &eacute;preuve de mon Livre La Petite Porte en format poche COMMAND&Eacute; !!! Hate de voir &ccedil;a !!! ^^"
+        },
+        {
+            "titre": "Citation",
+            "image": "http://66.media.tumblr.com/a2a4b02da682a97ccef935b15a327253/tumblr_o5mk90qAMI1v9kmzso1_1280.jpg",
+            "texte": "&lt;3"
+        },
+        {
+            "titre": "La Petite Porte",
+            "image": "",
+            "texte": "Retrouvez La Petite Porte sur <a href='http://www.nouslisons.fr/?action=fiche&id=29832' target='_blank'>nouslisons.fr</a> :)"
+        },
+        {
+            "titre": "Chuchotement de Les Lectures de Raven",
+            "image": "http://67.media.tumblr.com/1e908151f1c948a828acd04daacb6453/tumblr_o5b2x9DGps1v9kmzso1_400.jpg",
+            "texte": "Hier, une petite chuchoteuse d&#039;une jolie couleur noir corbeau est venue frapper &agrave; la porte de ma bulle et m&#039;a offert mon tout premier chuchotement &lt;3<br />Tendez doucement l&#039;oreille et d&eacute;couvrez vite ce qu&#039;elle chuchote sur La Petite Porte ! <br />Je vous invite &eacute;galement &agrave; visiter et &agrave; aimer sa jolie Chrisalymphe intitul&eacute;e &ldquo; <a href='https://www.facebook.com/leslecturesderaven/' target='_blank'><b>Les Lectures de Raven</b></a> &rdquo;.<br /><br />Mais ce n&#039;est pas tout ! Car la chuchoteuse dont je vous parle aujourd&#039;hui est tr&egrave;s sp&eacute;ciale ! C&#039;est aussi une raconteuse ! Vous pouvez d&eacute;couvrir son livre intitul&eacute; &ldquo;Chasseurs&rdquo; et entrer dans son monde en passant par <a href='https://www.facebook.com/chasseurs.vantroyen.marion/' target='_blank'>ici</a><br /><br />Un &eacute;norme merci &agrave; elle pour le temps qu&#039;elle a accord&eacute; &agrave; la lecture de La Petite Porte &lt;3<br /><br />******************************************<br /><br />Chuchotement sur <b>La Petite Porte</b> par <b>Les lectures de Raven</b> :<br /><br />En lecture, ce qui est bien, c&#039;est que tu finis toujours par tomber sur quelque chose de vraiment nouveau et mignon. <br />Aujourd&#039;hui &ccedil;a &eacute;t&eacute; le cas avec un petit ebook (Je n&#039;en lis pas encore beaucoup, mais je me laisse convertir petit &agrave; petit).<br /><br />Alors ce soir, je vous pr&eacute;sente &ldquo;La Petite Porte&rdquo; de A.E Ferrets. Avec un nombre de pages assez g&eacute;n&eacute;reux, une belle plume toute fraiche et un personnage adorable, une once d&#039;ambiance &ldquo;Alice aux Pays des Merveilles&rdquo;, laissez-vous guider par cette nouvelle lecture surprenante.<br /><br />R&eacute;sum&eacute;:<br />&ldquo;Je m&rsquo;appelle Ma&euml;lys et&hellip; Je pense que vous ne me croiriez pas si je vous racontais ce que j&rsquo;ai v&eacute;cu ! &Eacute;tait-ce une bonne chose ? Je ne sais pas&hellip; Aurais-je d&ucirc; fermer les yeux ? Ne rien tenter ? Ou aller jusqu&rsquo;au bout ? Et pourtant&hellip; Comme moi, vous auriez tout fait, tout. Laissez-moi vous conter mon histoire. Vous &ecirc;tes pr&ecirc;t ?&rdquo;<br /><br />Mon avis:<br /><br />Ma&euml;lys, Ma&euml;lys, Ma&euml;lys!! Mais que vais-je bien faire de toi ? Tu es trop mignon, j&#039;adore ton caract&egrave;re et j&#039;ai aim&eacute; &ecirc;tre dans ta t&ecirc;te tout au long de ton aventure, mais alors des fois, j&#039;ai eu envie de te secouer et pas qu&#039;un peu!!<br /><br />Ma&euml;lys est un jeune homme super attachant! Le lecteur se retrouve rapidement complice de la d&eacute;couverte du plus grand secret de toute sa vie. Une jolie histoire qui se lit facilement, o&ugrave; les choses pourraient sembler aller trop vite pour notre attendrissant h&eacute;ro et pourtant &hellip;<br /><br />Et vous oserez-vous suivre notre Ma&euml;lys jusqu&#039;au bout de son secret ?<br /><br />Retrouver la grande aventure de Ma&euml;lys en ebook sur <a href='https://store.kobobooks.com/fr-fr/ebook/la-petite-porte?utm_source=linkshare_us&utm_medium=Affiliate&utm_campaign=linkshare_us&siteID=je6NUbpObpQ-2ctsM3wJd.jEoIOwQKxOBA' target='_blank'>Kobo</a>, <a href='http://www.fnac.com/livre-numerique/a9489222/A-E-Ferrets-La-Petite-Porte#FORMAT=ePub' target='_blank'>Fnac</a>, <a href='https://www.amazon.fr/La-Petite-Porte-A-E-Ferrets-ebook/dp/B01C4G85C2' target='_blank'>Amazon</a> et <a href='http://www.youscribe.com/catalogue/tous/litterature/romans-et-nouvelles/la-petite-porte-2702193' target='_blank'>Youscribe</a>."
+        },
+        {
+            "titre": "En attendant&hellip;",
+            "image": "",
+            "texte": "En attendant la sortie au format poche de La Petite Porte&hellip; Un tout autre univers se pr&eacute;pare, o&ugrave; les feuilles poussent doucement, o&ugrave; les cr&eacute;atures parfois minuscules, parfois gigantesques, se bousculent par curiosit&eacute; pour voir au-dehors, par&eacute;es de leurs plus beaux atours. Les entendez-vous ? Elles r&ecirc;vent. Et vous ? "
+        },
+        {
+            "titre": "La Petite Porte format poche ?",
+            "image": "",
+            "texte": "Bonjour petit monde magique ! J&#039;apporte une tr&egrave;s bonne nouvelle ! La Petite Porte devrait bient&ocirc;t voir le jour au format livre poche !! Je suis impatiente ! &lt;3 "
+        }
+    ],
+    "03/2016": [
+        {
+            "titre": "D&eacute;couverte de La Petite Porte",
+            "image": "http://67.media.tumblr.com/1e908151f1c948a828acd04daacb6453/tumblr_o3thr1EoeZ1v9kmzso1_400.jpg",
+            "texte": "Bonjour &agrave; tous :) Je suis &agrave; la recherche de blogueurs / chroniqueurs qui souhaiteraient d&eacute;couvrir mon premier ebook intitul&eacute;: &ldquo;<b>La Petite Porte</b>&rdquo;. <br /><br /><br />Petite pr&eacute;sentation : &ldquo;La Petite porte&rdquo; est une nouvelle d&#039;environs 65 pages (sur liseuse Kobo Touch par exemple) du genre fantastique avec une l&eacute;g&egrave;re tendance sentimentale. On y suit l&#039;aventure de Ma&euml;lys, un jeune homme ordinaire, ou presque, dr&ocirc;le, mais surtout tr&egrave;s attachant !<br />Si vous &ecirc;tes int&eacute;ress&eacute;, vous pouvez me contacter sur <b>ae.ferrets@gmail.com</b>, je serais ravie de d&eacute;couvrir votre blog ou site ou m&ecirc;me votre page ! :)<br /><br />R&eacute;sum&eacute;:<br />Je m&rsquo;appelle Ma&euml;lys et&hellip; Je pense que vous ne me croiriez pas si je vous racontais ce que j&rsquo;ai v&eacute;cu ! &Eacute;tait-ce une bonne chose ? Je ne sais pas&hellip; Aurais-je d&ucirc; fermer les yeux ? Ne rien tenter ? Ou aller jusqu&rsquo;au bout ? Et pourtant&hellip; Comme moi, vous auriez tout fait, tout. Laissez-moi vous conter mon histoire. Vous &ecirc;tes pr&ecirc;t ?<br /><br />Des extraits sont disponibles gratuitement sur <a href='https://store.kobobooks.com/fr-fr/ebook/la-petite-porte?utm_source=linkshare_us&utm_medium=Affiliate&utm_campaign=linkshare_us&siteID=je6NUbpObpQ-2ctsM3wJd.jEoIOwQKxOBA' target='_blank'>Kobo</a>, <a href='https://www.amazon.fr/La-Petite-Porte-A-E-Ferrets-ebook/dp/B01C4G85C2' target='_blank'>Amazon</a> et <a href='http://www.youscribe.com/catalogue/tous/litterature/romans-et-nouvelles/la-petite-porte-2702193' target='_blank'>Youscribe</a> :)"
+        },
+        {
+            "titre": "R&eacute;sum&eacute; :",
+            "image": "http://66.media.tumblr.com/1e908151f1c948a828acd04daacb6453/tumblr_o3iv54MEqS1v9kmzso1_400.jpg",
+            "texte": "Je m&rsquo;appelle Ma&euml;lys et&hellip; Je pense que vous ne me croiriez pas si je vous racontais ce que j&rsquo;ai v&eacute;cu ! &Eacute;tait-ce une bonne chose ? Je ne sais pas&hellip; Aurais-je d&ucirc; fermer les yeux ? Ne rien tenter ? Ou aller jusqu&rsquo;au bout ? Et pourtant&hellip; Comme moi, vous auriez tout fait, tout. Laissez-moi vous conter mon histoire. Vous &ecirc;tes pr&ecirc;t ?"
+        }
+    ]
 }

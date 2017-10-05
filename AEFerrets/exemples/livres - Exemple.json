@@ -1,0 +1,16 @@
+[
+	{
+		"titre" : "Titre du premier livre",
+		"premiere" : "Couverture",
+		"quatrieme" : "Quatrieme de couverture",
+		"resume" : "Resumé du livre",
+		"papiers" : [
+			{"titre" : "Nom du prestataire1", "link" : "Lien vers le prestataire"},
+			{"titre" : "Nom du prestataire2", "link" : "Lien vers le prestataire"}
+		],
+		"ebooks" : [
+			{"titre" : "Nom du prestataire1", "link" : "Lien vers le prestataire"},
+			{"titre" : "Nom du prestataire2", "link" : "Lien vers le prestataire"}
+		]
+	}
+]

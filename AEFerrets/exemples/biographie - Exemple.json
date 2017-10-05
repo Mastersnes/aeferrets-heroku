@@ -1,0 +1,6 @@
+{
+	"titre" : "Titre de la biographie",
+	"image" : ["Image1", "Image2", "..."],
+	"video" : ["Video1", "Video2", "..."],
+	"texte" : "Texte de la biographie"
+}
