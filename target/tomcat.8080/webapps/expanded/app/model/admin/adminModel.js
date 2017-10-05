@@ -1,0 +1,1 @@
+define([],function(){return function(){this.data={mdp:"mdp"};this.setMdp=function(a){this.data.mdp=a}}});
