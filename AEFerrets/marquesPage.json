@@ -38,5 +38,10 @@
 		"name" : "Marque Page : Aube",
 		"url" : "img/marquesPage/aube.jpg",
 		"price" : "3.00"
+	},
+	{
+		"name" : "Marque Page : Nuit",
+		"url" : "img/marquesPage/nuit.jpg",
+		"price" : "3.00"
 	}
 ]
