@@ -1,47 +1,62 @@
 [
 	{
-		"name" : "Marque Page : Fee",
+		"name" : "Marque-Page : Fee",
 		"url" : "img/marquesPage/fee.jpg",
 		"price" : "3.00"
 	},
 	{
-		"name" : "Marque Page : Grenouillette",
+		"name" : "Marque-Page : Grenouillette",
 		"url" : "img/marquesPage/grenouillette.jpg",
 		"price" : "3.00"
 	},
 	{
-		"name" : "Marque Page : Indice",
+		"name" : "Marque-Page : Indice",
 		"url" : "img/marquesPage/indice.jpg",
 		"price" : "3.00"
 	},
 	{
-		"name" : "Marque Page : La Petite Porte",
+		"name" : "Marque-Page : La Petite Porte",
 		"url" : "img/marquesPage/lpp.jpg",
 		"price" : "3.00"
 	},
 	{
-		"name" : "Marque Page : Main",
+		"name" : "Marque-Page : Main",
 		"url" : "img/marquesPage/main.jpg",
 		"price" : "3.00"
 	},
 	{
-		"name" : "Marque Page : Seraphin",
+		"name" : "Marque-Page : Seraphin",
 		"url" : "img/marquesPage/seraphin.jpg",
 		"price" : "3.00"
 	},
 	{
-		"name" : "Marque Page : Poesie",
+		"name" : "Marqu-Page : Poesie",
 		"url" : "img/marquesPage/poesie.jpg",
 		"price" : "3.00"
 	},
 	{
-		"name" : "Marque Page : Aube",
+		"name" : "Marque-Page : Aube",
 		"url" : "img/marquesPage/aube.jpg",
 		"price" : "3.00"
 	},
 	{
-		"name" : "Marque Page : Nuit",
+		"name" : "Marque-Page : Nuit",
 		"url" : "img/marquesPage/nuit.jpg",
 		"price" : "3.00"
-	}
+	},
+	{
+		"name" : "Marque-Page : Temps",
+		"url" : "img/marquesPage/temps.jpg",
+		"price" : "3.00"
+	},
+	{
+		"name" : "Marque-Page : Soleil",
+		"url" : "img/marquesPage/soleil.jpg",
+		"price" : "3.00"
+	},
+	{
+		"name" : "Marque-Page : Fee2",
+		"url" : "img/marquesPage/fee2.jpg",
+		"price" : "3.00"
+	},
 ]
