@@ -1,4 +1,15 @@
-[
+[	{
+		"titre" : "La Petite Porte - collection Dys/10",
+		"premiere" : "img/livres/La petite porte dys FRONT.jpg",
+		"quatrieme" : "img/livres/La petite porte dys BACK.jpg",
+		"resume" : "Je m&rsquo;appelle Ma&euml;lys et&hellip; Je pense que vous ne me croiriez pas si je vous racontais ce que j&rsquo;ai v&eacute;cu ! &Eacute;tait-ce une bonne chose ? Je ne sais pas&hellip; Aurais-je d&ucirc; fermer les yeux ? Ne rien tenter ? Ou aller jusqu&rsquo;au bout ? Et pourtant&hellip; Comme moi, vous auriez tout fait, tout. Laissez-moi vous conter mon histoire. Vous &ecirc;tes pr&ecirc;t ?",
+		"papiers" : [
+			{"titre" : "Lulu", "link" : "http://www.lulu.com/shop/ae-ferrets/la-petite-porte-collection-dys10/paperback/product-23363932.html"}
+		],
+		"ebooks" : [],
+		"price" : 11.80,
+		"poids" : 380
+	},
 	{
 		"titre" : "Grenouillette et son violon",
 		"premiere" : "img/livres/Grenouillette FRONT.jpg",
