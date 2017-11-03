@@ -1,0 +1,1 @@
+define(["jquery","underscore","app/utils/utils","text!app/template/partenaire.html"],function(c,b,f,d){return function(e){this.init=function(a){this.parent=a;this.el=c(".mainPage .corps")};this.render=function(){b.templateSettings.variable="data";var a=b.template(d);this.el.html(a({}))};this.show=function(){this.render()};this.init(e)}});
