@@ -1,1 +1,0 @@
-define(["app/utils/utils"],function(b){return function(){this.data={date:"last"};this.setDate=function(a){this.data.date=a};this.getDate=function(){return b.formatDate(this.data.date)};this.resetIf=function(a){"last"==this.data.date&&(this.data.date=a[0])}}});

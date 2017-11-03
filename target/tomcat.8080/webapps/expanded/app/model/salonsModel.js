@@ -1,1 +1,0 @@
-define(["app/utils/utils"],function(a){return function(){this.data={date:"current"};this.setDate=function(a){this.data.date=a};this.getDate=function(){return a.formatDate(this.data.date)}}});

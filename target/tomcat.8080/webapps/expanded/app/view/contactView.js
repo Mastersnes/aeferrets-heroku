@@ -1,1 +1,0 @@
-define(["jquery","underscore","text!app/template/contact.html"],function(a,b,c){return function(){this.init=function(){this.el=a(".mainPage .corps")};this.render=function(){b.templateSettings.variable="data";var a=b.template(c);this.el.html(a({}));this.checkEvents()};this.show=function(){this.render()};this.checkEvents=function(){};this.init()}});
