@@ -1,16 +1,22 @@
 {
 	"current" : [{
-		"date" : "11/2017",
-		"titre" : "Songes et Sortil&egrave;ges !",
-		"image" : "https://media.joomeo.com/large/59d20a32785aa.jpg",
+		"date" : "12/2017",
+		"titre" : "March&eacute; de No&euml;l de Xamontarupt !",
+		"image" : [],
 		"video" : [],
-		"texte" : "La Petite Porte reviendra dans le Nord cette ann&eacute;e !! Et elle sera accompagn&eacute;e de Grenouillette et son violon !! ^^ Notez bien cette date dans vos agendas car je serai pr&eacute;sente pour d&eacute;dicacer vos exemplaires &agrave; l&#039;occasion du magnifique salon Songes et Sortil&egrave;ges, le 5 novembre 2017 !!! J&#039;ai h&acirc;te !! &hearts;&hearts;&hearts;"
+		"texte" : "Je serai pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du March&eacute; de No&euml;l de Xamontarupt, Samedi 9 D&eacute;cembre 2017, de 15h &agrave; 22h ! &hearts;"
 	}],
 	"next" : [
 	{
+		"date" : "07/2018",
+		"titre" : "Dormantastique 2018 !",
+		"image" : [],
+		"video" : [],
+		"texte" : "Je serai de nouveau pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du Festival Le Dormantastique, Le 21 et 22 Juillet 2018, dans le magnifique Ch&acirc;teau de Dormans et son Parc ! &hearts;"
+	},{
 		"date" : "02/2018",
 		"titre" : "D&eacute;dicace &agrave; Ser&eacute;mange-Erzange !",
-		"image" : "",
+		"image" : [],
 		"video" : [],
 		"texte" : "Je serai de nouveau pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du Salon du Livre et de la BD de Ser&eacute;mange-Erzange, Dimanche 4 F&eacute;vrier 2018, de 10h &agrave; 18h ! &hearts;"
 	}],
