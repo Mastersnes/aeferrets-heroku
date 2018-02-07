@@ -1,10 +1,10 @@
 {
 	"current" : [{
 		"date" : "02/2018",
-		"titre" : "D&eacute;dicace &agrave; Ser&eacute;mange-Erzange !",
-		"image" : [],
+		"titre" : "Atrebatia 2018 !",
+		"image" : "https://media.joomeo.com/large/5a4dff516ecf1.jpg",
 		"video" : [],
-		"texte" : "Je serai de nouveau pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du Salon du Livre et de la BD de Ser&eacute;mange-Erzange, Dimanche 4 F&eacute;vrier 2018, de 10h &agrave; 18h ! &hearts;"
+		"texte" : "Je serai pr&eacute;sente en d&eacute;dicace au magnifique festival Atrebatia, qui aura lieu le 17 et 18 f&eacute;vrier 2018 &agrave; Arras !! &hearts;"
 	}],
 	"next" : [
 	{
@@ -43,21 +43,15 @@
 		"image" : [],
 		"video" : [],
 		"texte" : "Je serai pr&eacute;sente aux Rencontres Litt&eacute;raires organis&eacute;es dans le cadre de la Semaine des arts de Darney, le 10 et 11 Mars 2018 de 14h &agrave; 18h ! &hearts;"
-	},{
-		"date" : "02/2018",
-		"titre" : "Atrebatia 2018 !",
-		"image" : "https://media.joomeo.com/large/5a4dff516ecf1.jpg",
-		"video" : [],
-		"texte" : "Je serai pr&eacute;sente en d&eacute;dicace au magnifique festival Atrebatia, qui aura lieu le 17 et 18 f&eacute;vrier 2018 &agrave; Arras !! &hearts;"
-	},{
-		"date" : "02/2018",
-		"titre" : "D&eacute;dicace &agrave; Ser&eacute;mange-Erzange !",
-		"image" : [],
-		"video" : [],
-		"texte" : "Je serai de nouveau pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du Salon du Livre et de la BD de Ser&eacute;mange-Erzange, Dimanche 4 F&eacute;vrier 2018, de 10h &agrave; 18h ! &hearts;"
 	}],
 	"preview" : [
 		{
+		"date" : "02/2018",
+		"titre" : "Souvenir du Salon de Ser&eacute;mange-Erzange 2018 !",
+		"image" : [],
+		"video" : [],
+		"texte" : "<center><iframe src='https://s.joomeo.com/5a7adc4017e77' width='400' height='300' scrolling='no' frameborder='0' ></iframe></center></br>Ce dimanche 4 f&eacute;vrier, je participais une nouvelle fois au Salon du Livre et de la BD de Ser&eacute;mange-Erzange. Ce fut l&rsquo;occasion de revoir certains lecteurs et exposants, mais aussi d&rsquo;en rencontrer des nouveaux ! :) Malheureusement, suite &agrave; un souci d&rsquo;organisation, nous &eacute;tions moins nombreux que ce qui &eacute;tait annonc&eacute;, mais les gens &eacute;taient heureux et j&rsquo;ai pass&eacute; un bon moment ! :) Je regrette un peu l&rsquo;absence des cosplayeurs cette ann&eacute;e, qui donnaient au salon tout son c&ocirc;t&eacute; fantastique. :( "
+	},{
 		"date" : "12/2017",
 		"titre" : "Souvenir du March&eacute; de No&euml;l de Xamontarupt 2017 !",
 		"image" : [],
