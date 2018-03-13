@@ -1,10 +1,10 @@
 {
 	"current" : [{
 		"date" : "03/2018",
-		"titre" : " Semaine des Arts &agrave; Darney !",
-		"image" : "https://media.joomeo.com/large/5a7b069ab51d0.jpg",
+		"titre" : " Salon du livre f&eacute;minin !",
+		"image" : "https://media.joomeo.com/large/5a97cc7e48bc1.jpg",
 		"video" : [],
-		"texte" : "Je serai pr&eacute;sente aux Rencontres Litt&eacute;raires organis&eacute;es dans le cadre de la Semaine des arts de Darney, le 10 et 11 Mars 2018 de 14h &agrave; 18h ! &hearts;"
+		"texte" : "Je serai pr&eacute;sente en d&eacute;dicace au Salon du Livre F&eacute;minin, le 17 et 18 Mars 2018 &agrave; Hagondange ! &hearts;"
 	}],
 	"next" : [
 	{
@@ -31,15 +31,15 @@
 		"image" : "https://media.joomeo.com/large/5a5ca374e0681.jpg",
 		"video" : [],
 		"texte" : "Je serai pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du Festival L&#039;or&eacute;e des l&eacute;gendes, Le 7 et 8 Avril 2018. Un magnifique festival f&eacute;erique vous attend ! &hearts;"
-	},{
-		"date" : "03/2018",
-		"titre" : " Salon du livre f&eacute;minin !",
-		"image" : "https://media.joomeo.com/large/5a97cc7e48bc1.jpg",
-		"video" : [],
-		"texte" : "Je serai pr&eacute;sente en d&eacute;dicace au Salon du Livre F&eacute;minin, le 17 et 18 Mars 2018 &agrave; Hagondange ! &hearts;"
 	}],
 	"preview" : [
 		{
+		"date" : "03/2018",
+		"titre" : "Souvenir de la Semaine des Arts &agrave; Darney !",
+		"image" : [],
+		"video" : [],
+		"texte" : "<center><iframe src='https://s.joomeo.com/5aa7d730e166b' width='400' height='300' scrolling='no' frameborder='0' ></iframe></center></br>Petit retour sur les d&eacute;dicaces &agrave; l&rsquo;occasion de la Semaine des Arts &agrave; Darney. C&rsquo;&eacute;tait un tr&egrave;s bel &eacute;v&eacute;nement &agrave; l&rsquo;ambiance tr&egrave;s cosy et conviviale o&ugrave; je me suis sentie vraiment bien ! :) J&rsquo;ai &eacute;t&eacute; tr&egrave;s heureuse de retrouver certaines personnes avec qui c&rsquo;est toujours un plaisir de discuter et d&rsquo;en rencontrer de nouvelles. &hearts; Malgr&eacute; la pluie et un temps tristounet, vous &eacute;tiez au rendez-vous pour d&eacute;couvrir les nombreux ateliers propos&eacute;s par les artistes pr&eacute;sents. &hearts; Bref, la Semaine des Arts de Darney &eacute;tait vraiment tr&egrave;s r&eacute;ussie !!!"
+	},{
 		"date" : "02/2018",
 		"titre" : "Souvenir du Festival Atrebatia 2018 !",
 		"image" : [],
