@@ -1,10 +1,10 @@
 {
 	"current" : [{
-		"date" : "04/2018",
-		"titre" : " Festival L&#039;or&eacute;e des l&eacute;gendes !",
-		"image" : "https://media.joomeo.com/large/5a5ca374e0681.jpg",
+		"date" : "06/2018",
+		"titre" : "Le Fantastique relais de l&#039;imaginaire !",
+		"image" : "https://media.joomeo.com/large/5a6ef95f79fbf.jpg",
 		"video" : [],
-		"texte" : "Je serai pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du Festival L&#039;or&eacute;e des l&eacute;gendes, Le 7 et 8 Avril 2018. Un magnifique festival f&eacute;erique vous attend ! &hearts;"
+		"texte" : "Je serai pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du tout nouveau Festival Le Fantastique relais de l&#039;imaginaire. Il aura lieu le 2 et 3 Juin 2018 ! Venez nombreux ! &hearts;"
 	}],
 	"next" : [
 	{
@@ -13,15 +13,15 @@
 		"image" : [],
 		"video" : [],
 		"texte" : "Je serai de nouveau pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du Festival Le Dormantastique, Le 21 et 22 Juillet 2018, dans le magnifique Ch&acirc;teau de Dormans et son Parc ! &hearts;"
-	},{
-		"date" : "06/2018",
-		"titre" : "Le Fantastique relais de l&#039;imaginaire !",
-		"image" : "https://media.joomeo.com/large/5a6ef95f79fbf.jpg",
-		"video" : [],
-		"texte" : "Je serai pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du tout nouveau Festival Le Fantastique relais de l&#039;imaginaire. Il aura lieu le 2 et 3 Juin 2018 ! Venez nombreux ! &hearts;"
 	}],
 	"preview" : [
 		{
+		"date" : "04/2018",
+		"titre" : "Souvenir de L&rsquo;Or&eacute;e des L&eacute;gendes 2018 !",
+		"image" : [],
+		"video" : [],
+		"texte" : "<center><iframe src='https://s.joomeo.com/5ad0c616903b3' width='400' height='300' scrolling='no' frameborder='0' ></iframe></center></br>Et voil&agrave; ! L&rsquo;Or&eacute;e des L&eacute;gendes, c&rsquo;est termin&eacute; pour cette ann&eacute;e ! :( Le festival repart et emporte avec lui toutes ses r&ecirc;ves et ses merveilles. Toutes ? Non, pas tout &agrave; fait ! Car, une grande partie reste dans les c&oelig;urs ! Ce f&ucirc;t une premi&egrave;re pour moi et j&rsquo;ai eu un r&eacute;el coup de c&oelig;ur pour ce magnifique festival ! Gr&acirc;ce &agrave; lui, j&rsquo;ai retrouv&eacute; les couleurs que j&rsquo;avais perdues, ma voix, ma passion et ma motivation. &hearts; Pour moi, L&rsquo;Or&eacute;e des L&eacute;gendes, c&rsquo;est bien plus qu&rsquo;un simple festival f&eacute;erique. C&rsquo;est le bon chemin, mon chemin. Ce sentier sur lequel j&rsquo;aime me balader, en compagnie de cr&eacute;atures l&eacute;gendaires, distribuant plein de paillettes et de r&ecirc;ves. &hearts;<br />J&rsquo;ai &eacute;t&eacute; tr&egrave;s heureuse vous retrouver l&agrave;-bas (exposant comme lecteurs &hearts;) et de faire de nouvelles rencontres. J&rsquo;ai pu faire la connaissance de personnes merveilleuses et je remercie tout particuli&egrave;rement les organisateurs de ce fabuleux festival car, gr&acirc;ce &agrave; eux, nous r&ecirc;vons ! Et ce, bien au-del&agrave; du festival. <br />Un grand merci &agrave; tous pour ce merveilleux week-end. Je garde l&rsquo;affiche face &agrave; moi pour me rappeler de ces belles journ&eacute;es pass&eacute;es &agrave; vos c&ocirc;t&eacute;s. &hearts;"
+	},{
 		"date" : "03/2018",
 		"titre" : "Souvenir de la Semaine des Arts &agrave; Darney !",
 		"image" : [],
