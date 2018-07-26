@@ -29,7 +29,8 @@
 			}
 		],
 		"price": 7.80,
-		"poids": 160
+		"poids": 160,
+		"infos" : ["Format : Poche", "Pages : 288"]
 	},
 	{
 		"titre": "Grenouillette et son violon",
