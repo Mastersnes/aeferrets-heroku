@@ -9,7 +9,8 @@
 		}],
 		"ebooks": [],
 		"price": 15,
-		"poids": 325
+		"poids": 325,
+		"infos" : ["Année : 2018", "Format : Broch&eacute;", "Pages : 288", "Prix : 15"]
 	},{
 		"titre": "La Petite Porte",
 		"premiere": "img/livres/La petite porte poche FRONT.jpg",
@@ -30,7 +31,7 @@
 		],
 		"price": 7.80,
 		"poids": 160,
-		"infos" : ["Format : Poche", "Pages : 288"]
+		"infos" : ["Année : 2016", "Format : Poche", "Pages : 134", "Prix : 7.80"]
 	},
 	{
 		"titre": "Grenouillette et son violon",
@@ -43,7 +44,8 @@
 		}],
 		"ebooks": [],
 		"price": 14.80,
-		"poids": 120
+		"poids": 120,
+		"infos" : ["Année : 2017", "Format : Livre illustré", "Pages : 32", "Prix : 14.80"]
 	},
 	{
 		"titre": "La Petite Porte - collection Dys/10",
@@ -56,6 +58,7 @@
 		}],
 		"ebooks": [],
 		"price": 11.80,
-		"poids": 380
+		"poids": 380,
+		"infos" : ["Année : 2017", "Format : Poche", "Pages : 402", "Prix : 11.80"]
 	}
 ]
