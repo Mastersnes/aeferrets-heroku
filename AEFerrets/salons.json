@@ -1,18 +1,18 @@
 {
 	"current" : [{
-		"date" : "07/2018",
-		"titre" : "Dormantastique 2018 !",
-		"image" : [],
-		"video" : [],
-		"texte" : "Je serai de nouveau pr&eacute;sente en d&eacute;dicace &agrave; l&#039;occasion du Festival Le Dormantastique, Le 21 et 22 Juillet 2018, dans le magnifique Ch&acirc;teau de Dormans et son Parc ! &hearts;"
-	}],
-	"next" : [
-	{
 		"date" : "09/2018",
 		"titre" : "D&eacute;dicace &agrave; Piennes !",
 		"image" : [],
 		"video" : [],
-		"texte" : "Je serai de nouveau pr&eacute;sente en d&eacute;dicace pour la 5e &eacute;dition du Salon du Livre de Piennes , le 1 et 2 Septembre 2018, de 14h &agrave; 18h et de 10h &agrave; 17h ! &hearts;"
+		"texte" : "Je serai de nouveau pr&eacute;sente en d&eacute;dicace pour la 5e &eacute;dition du Salon du Livre de Piennes , Dimanche 2 Septembre 2018 de 10h &agrave; 18h, Salle Jean Vilar ! &hearts;"
+	}],
+	"next" : [
+	{
+		"date" : "09/2018",
+		"titre" : "D&eacute;dicace &agrave; Fameck !",
+		"image" : [],
+		"video" : [],
+		"texte" : "Je serai de nouveau pr&eacute;sente en d&eacute;dicace pour la 1ère &eacute;dition du Salon du Livre de Fameck , Samedi 8 Septembre 2018, de 14h à 18h et Dimanche 9 Septembre 2018, de 10h &agrave; 17h30, Salle Victor Hugo, rue de Touraine ! &hearts;"
 	}],
 	"preview" : [
 		{
