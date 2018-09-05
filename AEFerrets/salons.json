@@ -8,17 +8,17 @@
 	}],
 	"next" : [
 	{
-		"date" : "12/2018",
-		"titre" : "Marché de Noël de Xamontarupt !",
-		"image" : [],
-		"video" : [],
-		"texte" : "Je serai de nouveau pr&eacute;sente au magnifique Marché de Noël de Xamontarupt ! Il aura lieu Samedi 8 Décembre 2018, de 15h à 22h ! J'espère avoir mille merveilles pour vous à l'occasion de cette fête de fin d'année pleine de magie ! &hearts;"
-	},{
 		"date" : "11/2018",
 		"titre" : "D&eacute;dicace &agrave; Loos !",
 		"image" : [],
 		"video" : [],
 		"texte" : "Je serai une nouvelle fois pr&eacute;sente en d&eacute;dicace pour la 16ème édition du Salon du Livre de Loos ! Celui-ci aura lieu Samedi 24 Novembre 2018, à la salle Gaston Caby, de 10h à 18h ! L'occasion pour moi de vous présenter mon tout nouveau livre ! Hâte de vous retrouver ! &hearts;"
+	},{
+		"date" : "12/2018",
+		"titre" : "Marché de Noël de Xamontarupt !",
+		"image" : [],
+		"video" : [],
+		"texte" : "Je serai de nouveau pr&eacute;sente au magnifique Marché de Noël de Xamontarupt ! Il aura lieu Samedi 8 Décembre 2018, de 15h à 22h ! J'espère avoir mille merveilles pour vous à l'occasion de cette fête de fin d'année pleine de magie ! &hearts;"
 	}],
 	"preview" : [
 		{
