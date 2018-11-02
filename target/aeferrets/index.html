@@ -25,11 +25,26 @@
 		<div>
 			<div id="app"></div>
 			<script>
-				require(['app/config/config.js'], function () {
+				try {	
+					require.config({
+						waitSeconds : 60,
+						baseUrl: "",
+						paths: {
+							"jquery": "lib/jquery-3.1.1.min",
+							"jqueryui": "lib/jquery-ui.min",
+							"jquery-validate": "lib/jquery.validate.min",
+							"underscore": "lib/underscore.min",
+							"text": "lib/text.min"
+						},
+						urlArgs: "version=" + (new Date()).getTime()
+					});
+					
 					require(['app/view/mainView'], function (main) {
 						new main();
 					});
-				});
+				} catch (error) {
+					location.reload();
+				}
 			</script>
 		</div>
 		<a class="hidden" href="honeybot" title="Lien pour Robot">Lien pour Robot</a>
