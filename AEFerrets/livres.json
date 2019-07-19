@@ -8,13 +8,13 @@
 			"link": ""
 		}],
 		"ebooks": [],
-		"price": 15,
+		"price": 13.5,
 		"poids": 325,
 		"infos" : [
 			{"key" : "Année", "value" : "2018"},
 			{"key" : "Format", "value" : "Broché"},
 			{"key" : "Pages", "value" : "288"},
-			{"key" : "Prix", "value" : "15"}
+			{"key" : "Prix", "value" : "15<sup>-10%</sup>"}
 		]
 	},{
 		"titre": "La Petite Porte",
